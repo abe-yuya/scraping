@@ -3,6 +3,10 @@
 ## scrap/spiders
 クロール対象のサイトへのリクエスト、レスポンスのパース処理を記述。
 どのようにサイトを辿って、ページの内容をどうパースするかのロジックを書く。
+- spiderの作成
+`scrapy genspider {spider_name} {request_url}`
+- spiderの実行
+`scrapy crawl {spider_name}`
 
 ## scrap/items.py
 スクレイピングで取得したデータを格納する入れ物。
