@@ -4,7 +4,7 @@
 クロール対象のサイトへのリクエスト、レスポンスのパース処理を記述。
 どのようにサイトを辿って、ページの内容をどうパースするかのロジックを書く。
 - spiderの作成
-`scrapy genspider {spider_name} {request_url}`
+`scrapy genspider -t crawl {spider_name} {request_url}`
 - spiderの実行
 `scrapy crawl {spider_name}`
 

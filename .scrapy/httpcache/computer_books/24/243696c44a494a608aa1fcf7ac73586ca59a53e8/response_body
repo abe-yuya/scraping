@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta name="" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" media="all" href="/css/main/common/import.css?vsr=1">
+<script type="text/javascript" src="/js/common/jquery-1.6.1.min.js"></script>
+<!--ページ専用-->
+<link rel="stylesheet" type="text/css" media="all" href="/css/main/form/import.css?vsr=1">
+<script type="text/javascript" src="/js/form/import.js" charset="UTF-8"></script>
+
+<title>紀伊國屋書店</title>
+<script type="text/javascript" src="/js/common/scroll.js"></script>
+
+
+
+</head>
+
+<body id="two_col">
+<div id="page">
+
+<!-- == /ヘッダー　ここから =========================== -->
+<div id="header" class="er">
+  <div id="logo_box">
+    <h1><a href="/">紀伊國屋書店</a></h1>
+    <ul>
+      <li id="site_use"><a href="https://www.kinokuniya.co.jp/contents/pc/information/regist.html">サイトのご利用案内</a></li>
+      <li id="question"><a href="https://faq.kinokuniya.co.jp/">よくある質問・お問い合わせ</a></li>
+      <li id="corporation"><a href="/contents/pc/business/">法人外商</a></li>
+    </ul>
+  </div>
+</div>
+<!-- == /ヘッダー　ここまで =========================== -->
+
+
+<!-- == /コンテンツ　ここから =========================== -->
+<div id="contents" class="clearfix er">
+
+<!-- == /メインコンテンツ　ここから =========================== -->
+<div id="main_contents">
+            <div id="wrap-form">
+                <div id="form-contents">
+                    <h1 class="H1_Title">エラー</h1>
+
+                    <form class="formArea mb20" method="get" action="../index.jsp">
+                        <p class="disclaimer"></p>
+                        <h2 class="snipetTitle">一般的なエラー</h2>
+
+                        <p class="mb15">
+                        お手数ですが再度<a href="/">トップページ</a>より操作してください。
+                        </p>
+                        <p class="mt20 mb15">
+                        <br>次のような原因が考えられます。
+                        </p>
+                        <p class="mb20">
+                      ・一時的な問題によりサーバにアクセスできない場合があります。<br>
+                      ・お探しの商品の取り扱いがない、または発売前のため商品情報を表示できません。<br>
+                      ・入力したURLが違っているか、あなたがご覧になっていたページのリンクに誤りがあります。<br>
+                      ・ページのURLが変更されたり、ページ自体が削除される場合があります。<br>
+                    </p>
+                    <p class="mb20">
+                      和書をお探しの場合は<a href="/disp/CKnDetailSearchForm.jsp?ptk=01" title="和書詳細検索">こちら</a>から検索してください。<br>
+                      洋書をお探しの場合は<a href="/disp/CKnDetailSearchForm.jsp?ptk=02" title="洋書詳細検索">こちら</a>から検索してください。<br>
+                      電子書籍をお探しの場合は<a href="/disp/CKnDetailSearchForm.jsp?ptk=03" title="電子書籍詳細検索">こちら</a>から検索してください。<br>
+                      雑誌・海外マガジンをお探しの場合は<a href="/disp/CKnDetailSearchForm.jsp?ptk=04" title="雑誌詳細検索">こちら</a>から検索してください。<br>
+                      DVD・CDをお探しの場合は<a href="/disp/CKnDetailSearchForm.jsp?ptk=05" title="DVD・CD詳細検索">こちら</a>から検索してください。<br>
+                      ご質問・お問い合わせは<a href="https://faq.kinokuniya.co.jp/" title="よくある質問">こちら</a>をご参照ください。<br>
+                      法人のお客様の「<a href="https://mirai.kinokuniya.co.jp/" target="mirai">教育と研究の未来</a>」へのお問い合わせは<a href="https://mirai.kinokuniya.co.jp/contact/" title="お問い合わせ" target="mirai">こちら</a>をご参照ください。<br>
+                    </p>
+                        <div class="sideByside">
+                            <input type="submit" class="rounded GRAY" value="トップページに戻る">
+                        </div>
+                    </form>
+
+                </div><!--END form-contents-->
+            </div><!--END wrap-form-->
+</div>
+<!-- == /メインコンテンツ　ここまで =========================== -->
+
+</div>
+<!-- == /コンテンツ　ここまで =========================== -->
+
+
+<!-- == /フッター　ここから =========================== -->
+<div id="footer">
+
+<div id="footer_logo_box">
+<div id="footer_logo_box_inner" class="clearfix">
+<div id="Privacy"><a href="http://privacymark.jp/" target="_blank"><img src="/images/parts/common/logo03.gif" width="78" height="83" alt="プライバシーマーク"></a> </div>
+<div id="footer_right_box">
+<p>このウェブサイトの内容の一部または全部を無断で複製、転載することを禁じます。<br>
+当社店舗一覧等を掲載されるサイトにおかれましては、最新の情報を当ウェブサイトにてご参照のうえ常時メンテナンスください。 </p>
+<dl class="clearfix">
+<dt><img src="/images/parts/common/logo02.gif" width="192" height="41" alt="株式会社紀伊國屋書店　本社：東京都新宿区新宿3-17-7"></dt>
+<dd>東京都公安委員会　古物商許可番号<br>
+304366100901 Copyright by KINOKUNIYA COMPANY LTD. </dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<!-- == /フッター　ここまで =========================== -->
+
+</div>
+</body>
+</html>
