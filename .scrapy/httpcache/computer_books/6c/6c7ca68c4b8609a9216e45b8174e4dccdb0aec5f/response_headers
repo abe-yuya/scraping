@@ -1,16 +1,16 @@
 Server: nginx
-Date: Tue, 16 Aug 2022 14:15:02 GMT
+Date: Sat, 10 Sep 2022 06:34:03 GMT
 Content-Type: text/html;charset=UTF-8
-Set-Cookie: JSESSIONID=095A7F3957993FB849ACA90FB3B972F6; Path=/; HttpOnly
-Set-Cookie: JSESSIONID=095A7F3957993FB849ACA90FB3B972F6; Path=/; Secure; HttpOnly
+Set-Cookie: JSESSIONID=B358F380E0CDD9B9FBFD2CAC19238546; Path=/; HttpOnly
+Set-Cookie: JSESSIONID=B358F380E0CDD9B9FBFD2CAC19238546; Path=/; Secure; HttpOnly
 Set-Cookie: V1_PSH=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
-Set-Cookie: V1_COMM_005=22EB141F46267CCC31D6C9F8F6E2FD02B17F8155F7B0F20C; Expires=Mon, 14-Nov-2022 14:15:02 GMT; Path=/; Secure
-Set-Cookie: V1_GENREA_DISPLAY=02; Expires=Mon, 14-Nov-2022 14:15:02 GMT; Path=/; Secure
-Set-Cookie: V1_FAIR_DISPLAY=02; Expires=Mon, 14-Nov-2022 14:15:02 GMT; Path=/; Secure
-Set-Cookie: V1_GOODS_DISPLAY=02; Expires=Mon, 14-Nov-2022 14:15:02 GMT; Path=/; Secure
-Set-Cookie: V1_disp_history=101001037028005; Expires=Mon, 14-Nov-2022 14:15:02 GMT; Path=/disp; Secure
+Set-Cookie: V1_COMM_005=C4749F0EDE8908734FBD463A59645B26F603F335D88BE6F1; Expires=Fri, 09-Dec-2022 06:34:03 GMT; Path=/; Secure
+Set-Cookie: V1_GENREA_DISPLAY=02; Expires=Fri, 09-Dec-2022 06:34:03 GMT; Path=/; Secure
+Set-Cookie: V1_FAIR_DISPLAY=02; Expires=Fri, 09-Dec-2022 06:34:03 GMT; Path=/; Secure
+Set-Cookie: V1_GOODS_DISPLAY=02; Expires=Fri, 09-Dec-2022 06:34:03 GMT; Path=/; Secure
+Set-Cookie: V1_disp_history=101001037028005; Expires=Fri, 09-Dec-2022 06:34:03 GMT; Path=/disp; Secure
 Set-Cookie: sn=03; Path=/; secure
-Last-Modified: Tue, 16 Aug 2022 14:15:02 GMT
+Last-Modified: Sat, 10 Sep 2022 06:34:03 GMT
 Expires: Wed, 31 Dec 1969 15:00:00 GMT
 Pragma: no-cache
 Cache-Control: no-cache, no-store

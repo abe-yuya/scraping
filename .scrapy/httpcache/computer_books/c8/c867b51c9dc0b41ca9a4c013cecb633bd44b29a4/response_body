@@ -92,7 +92,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
 <div id="logo_box">
     <h1><a href="https://www.kinokuniya.co.jp/">紀伊國屋書店</a></h1>
     <ul class="header-in-menu_text-type">
-        <li><a href="https://store.kinokuniya.co.jp/user-guide/" target="_blank">サイトのご利用案内</a></li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://store.kinokuniya.co.jp/user-guide/" target="_blank">サイトマップ</a></li>
         <li><a href="/common/CSfClaimEntry.jsp">お問い合わせ</a></li>
     </ul>
     <ul class="header-in-menu_button-type">
@@ -533,6 +533,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
 				<li><a href="/f/dsd-107004008008--" target="">前田裕二「メモの魔力」の文具</a></li>
 				<li><a href="/f/dsd-107004008009--" target="">大学グッズ</a></li>
 				<li><a href="/f/dsd-107004008010--" target="">コミックまとめ買い</a></li>
+				<li><a href="/f/dsd-107004008013--" target="">偕拓堂アート</a></li>
 				<li><a href="/f/dsd-107004008011--" target="">鉱石・化石プレゼント特集</a></li>
 				<li><a href="/f/dsd-107004008012--" target="">かいけつゾロリ35周年グッズ</a></li>
 				<li><a href="/f/dsd-107004008014--" target="">紀伊國屋書店オリジナルトートバッグ</a></li>
@@ -729,7 +730,7 @@ googletag.enableServices();
               </ul>
     <form name="goodsForm" action="../cart/CCtAddGoodsToCart.jsp" method="post" class="formArea ml00 mr00">
   <input type="hidden" name="actionId" />
-  <input type="hidden" name="CFM_ID" value="33532687" />
+  <input type="hidden" name="CFM_ID" value="08996919" />
   <input type="checkbox" name="GOODS_INFO_SET_1" value="9784295001249|01" style="display: none;" checked="checked"/>
   <input type="hidden" name="tp" value="1" />
   <input type="hidden" name="GOODS_STK_NO" value="9784295001249" />
@@ -748,7 +749,16 @@ googletag.enableServices();
               <a style='background-position: left top; width: 138px; height: 28px; background-image: url("../images/parts/goods-list/jpo_tameshiyome_button1.png"); display: block;' onmouseover="this.style.backgroundPosition='left bottom';" onmouseout="this.style.backgroundPosition='left top';" onclick="dialogOpen('jpoWrapper','jpoDetailWrapper')" href="javascript:void(0)" class="mb10 mr10"></a>
             </li>
           </ul>
-        <div class="btnArea">
+        <div class="inCart">
+          <div class="inner">
+            
+              個数：
+              <input type="text" name="GOODS_CNT" class="rounded count" value="1" style="ime-mode:disabled;" maxlength="2" />
+                <span id="GOODS_CNT_ERR" class="redhot" style="display: none;"></span>
+              <input type="submit" name="ORD_TP_CART" value="カートに入れる" onclick="return goCart(document.goodsForm);" class="intoCartButton" />
+            </div>
+        </div>
+      <div class="btnArea">
         <div class="inner">
           <input type="submit" name="" value="ほしいものリストに登録する" onclick="return insertFavAll(document.goodsForm, 'https://www.kinokuniya.co.jp/member/CKnMmAddGoodsToMyLibrary.jsp');" class="wantListButton">
           <input type="button" name="" value="店頭在庫検索" onclick="goStockSearchStore('01', '9784295001249');" class="shopStockButton2">
@@ -770,14 +780,24 @@ googletag.enableServices();
         <ul>
           <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?qsd=true&ptk=01&author=%E6%9F%8F%E5%B2%A1+%E7%A7%80%E7%94%B7">柏岡 秀男</a>/<a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?qsd=true&ptk=01&author=%E6%B1%A0%E7%94%B0+%E5%8F%8B%E5%AD%90">池田 友子【著】</a></li>
           <li><input type="button" name="" value="著者名をお気に入りに登録する" onclick="goFavoriteAuthor(document.goodsForm);" class="favAuthorButton"></li>
+          <li itemprop="offerDetails" itemscope itemtype="http://data-vocabulary.org/Offer">価格 <span itemprop="currency" content="JPY"><span class="sale_price" itemprop="price" content="2,178">&yen;2,178</span></span>（本体&yen;1,980）</li>
           <li>
               <a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?qsd=true&ptk=01&publisher-key=%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9">インプレス</a>（2017/06発売）</li>
+          <li>ポイント <span class="redhot">19pt</span></li>
           </ul>
       </div>
 
       <div class="delibox dotted ml10 mt05 pt05">
         <ul>
-          <li>ただいまウェブストアではご注文を受け付けておりません。</li>
+          <li><span class="redhot">出版社からのお取り寄せとなります。</span><br/>入荷までにおよそ1～3週間程度かかります。<br/>※商品によっては、品切れ等で入手できない場合がございます。</li>
+
+                <li>
+                    <a href="javascript:void(0)" class="openBtn ORANGE rounded mt05 mb05">出荷予定日とご注意事項</a><br>
+                    <span class="redhot">※上記を必ずご確認ください</span><br><br>
+                    <span class="setslidePanel">
+                      【出荷までの期間】<br/><span class="redhot">■通常、およそ1～3週間程度</span><br/><br/>【ご注意事項】 ※必ずお読みください<br/>◆上記期間よりも日数がかかる場合がございます。<br/>◆お届け日のご指定は承っておりません。<br/>◆品切れ・絶版等により入手できない場合がございます。<br/>◆品切れ・絶版等の確認に2週間以上かかる場合がございます。<br/>◆「帯」はお付けできない場合がございます。<br/>◆画像の表紙や帯等は実物とは異なる場合があります。<br/>◆特に表記のない限り特典はありません。</span>
+                  </li>
+                <li>◆<a href = "https://faq.kinokuniya.co.jp/faq/show/891" target="_blank">店舗受取サービスはご利用いただけません。</a><br/><br/><span class="redhot">【ご案内】<br/>新型コロナウィルス感染拡大の影響により、出版社からのお取り寄せ品におきまして、在庫状況や納期の確認ができなかったり、入荷までに普段よりも日数がかかる場合がございます。恐れ入りますが、あらかじめご了解くださいますようお願い致します。</span><br/><br/></li>
               </ul>
       </div>
 
@@ -899,8 +919,8 @@ googletag.enableServices();
   <div class="book_list">
     <dl >
         <dt>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784297127473'>
-            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/42971/4297127474.jpg" alt="プロを目指す人のためのＴｙｐｅＳｃｒｉｐｔ入門 - 安全なコードの書き方から高度な型の使い方まで" />
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784873119380'>
+            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/48731/4873119383.jpg" alt="Ｒｅａｃｔハンズオンラーニング - Ｗｅｂアプリケーション開発のベストプラクティス （第２版）" />
           </a>
           <div class="category clearfix">
             <ul>
@@ -909,8 +929,8 @@ googletag.enableServices();
           </div>
         </dt>
         <dd>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784297127473'>
-            プロを目指す人のためのＴｙｐｅＳｃｒｉ…</a>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784873119380'>
+            Ｒｅａｃｔハンズオンラーニング - Ｗ…</a>
         </dd>
         </dl>
     <dl >
@@ -927,6 +947,22 @@ googletag.enableServices();
         <dd>
           <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784877834609'>
             実践ＯｐｅｎＣＶ４　ｆｏｒ　Ｐｙｔｈｏ…</a>
+        </dd>
+        </dl>
+    <dl >
+        <dt>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774189956'>
+            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/47741/4774189952.jpg" alt="ＪａｖａＳｃｒｉｐｔ超入門 たった１日で基本が身に付く！" />
+          </a>
+          <div class="category clearfix">
+            <ul>
+              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
+              </ul>
+          </div>
+        </dt>
+        <dd>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774189956'>
+            ＪａｖａＳｃｒｉｐｔ超入門 たった１日…</a>
         </dd>
         </dl>
     </div>
@@ -986,7 +1022,10 @@ googletag.enableServices();
   <div id="maintenance">
           <ul>
       <li>
-            <a href="https://www.kinokuniya.co.jp/f/inews-1-260">【Kinoppy】Androidアプリに「カタログ」ページ登場！</a>
+            <a href="https://www.kinokuniya.co.jp/f/inews-1-185">Kinoppyポイント25倍キャンペーン9/11まで</a>
+          </li>
+      <li>
+            <a href="https://www.kinokuniya.co.jp/f/inews-1-260">ウェブストアの「ほしいものリスト」が使いやすくなりました!!</a>
           </li>
       <li>
             <a href="https://www.kinokuniya.co.jp/f/inews-1-265">洋書/海外マガジンの入荷遅延等について</a>
@@ -1024,11 +1063,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1374454843387-1');
     </form>
   </div>
   <!-- <!-- MyKiTSエリア ここから -->
-<!-- <div id="right_banner"> -->
-<!--   <ul> -->
-<!--     <li><div style="width:230px;height:65px;margin:0;padding:0;"><a href="https://gomykits.kinokuniya.co.jp/" target="gomykits"><img src="/contents/images/inc/MyKiTS-nav.jpg" alt="紀伊國屋書店教科書ストアMyKiTS" style="width:230px;margin:0;"></a></div></li> -->
-<!--   </ul> -->
-<!-- </div> -->
+<div id="right_banner">
+  <ul>
+     <li><div style="width:230px;height:65px;margin:0;padding:0;"><a href="https://gomykits.kinokuniya.co.jp/" target="gomykits"><img src="/contents/images/inc/MyKiTS-nav.jpg" alt="紀伊國屋書店教科書ストアMyKiTS" style="width:230px;margin:0;"></a></div></li>
+  </ul>
+</div>
 <!-- MyKiTSエリア ここまで -->
 <!-- Kinoppy バナーエリア ここから -->
 <div id="right_banner">
@@ -1193,8 +1232,8 @@ _uih['lg_id'] = '';
 _uih['fb_id'] = '';
 _uih['tw_id'] = '';
   
-_uih['uigr_1'] = '01:ただいまウェブストアではご注文を受け付けておりません。'; _uih['uigr_2'] = ''; _uih['uigr_3'] = ''; _uih['uigr_4'] = ''; _uih['uigr_5'] = '';
-ga('send', 'event', 'washoDetail', 'view', 'ただいまウェブストアではご注文を受け付けておりません。');
+_uih['uigr_1'] = '01:<span class="redhot">出版社からのお取り寄せとなります。</span><br/>入荷までにおよそ1～3週間程度かかります。<br/>※商品によっては、品切れ等で入手できない場合がございます。<br/><br/>【出荷までの期間】<br/><span class="redhot">■通常、およそ1～3週間程度</span><br/><br/>【ご注意事項】 ※必ずお読みください<br/>◆上記期間よりも日数がかかる場合がございます。<br/>◆お届け日のご指定は承っておりません。<br/>◆品切れ・絶版等により入手できない場合がございます。<br/>◆品切れ・絶版等の確認に2週間以上かかる場合がございます。<br/>◆「帯」はお付けできない場合がございます。<br/>◆画像の表紙や帯等は実物とは異なる場合があります。<br/>◆特に表記のない限り特典はありません。<br/>◆<a href = "https://faq.kinokuniya.co.jp/faq/show/891" target="_blank">店舗受取サービスはご利用いただけません。</a><br/><br/><span class="redhot">【ご案内】<br/>新型コロナウィルス感染拡大の影響により、出版社からのお取り寄せ品におきまして、在庫状況や納期の確認ができなかったり、入荷までに普段よりも日数がかかる場合がございます。恐れ入りますが、あらかじめご了解くださいますようお願い致します。</span><br/><br/>'; _uih['uigr_2'] = ''; _uih['uigr_3'] = ''; _uih['uigr_4'] = ''; _uih['uigr_5'] = '';
+ga('send', 'event', 'washoDetail', 'view', '<span class="redhot">出版社からのお取り寄せとなります。</span><br/>入荷までにおよそ1～3週間程度かかります。<br/>※商品によっては、品切れ等で入手できない場合がございます。<br/><br/>【出荷までの期間】<br/><span class="redhot">■通常、およそ1～3週間程度</span><br/><br/>【ご注意事項】 ※必ずお読みください<br/>◆上記期間よりも日数がかかる場合がございます。<br/>◆お届け日のご指定は承っておりません。<br/>◆品切れ・絶版等により入手できない場合がございます。<br/>◆品切れ・絶版等の確認に2週間以上かかる場合がございます。<br/>◆「帯」はお付けできない場合がございます。<br/>◆画像の表紙や帯等は実物とは異なる場合があります。<br/>◆特に表記のない限り特典はありません。<br/>◆<a href = "https://faq.kinokuniya.co.jp/faq/show/891" target="_blank">店舗受取サービスはご利用いただけません。</a><br/><br/><span class="redhot">【ご案内】<br/>新型コロナウィルス感染拡大の影響により、出版社からのお取り寄せ品におきまして、在庫状況や納期の確認ができなかったり、入荷までに普段よりも日数がかかる場合がございます。恐れ入りますが、あらかじめご了解くださいますようお願い致します。</span><br/><br/>');
     
 _uih['uigr_6'] = ''; _uih['uigr_7'] = ''; _uih['uigr_8'] = ''; _uih['uigr_9'] = ''; _uih['uigr_10'] = '';
 

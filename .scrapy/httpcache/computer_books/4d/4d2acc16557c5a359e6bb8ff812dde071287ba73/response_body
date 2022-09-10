@@ -93,7 +93,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
 <div id="logo_box">
     <h1><a href="https://www.kinokuniya.co.jp/">紀伊國屋書店</a></h1>
     <ul class="header-in-menu_text-type">
-        <li><a href="https://store.kinokuniya.co.jp/user-guide/" target="_blank">サイトのご利用案内</a></li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://store.kinokuniya.co.jp/user-guide/" target="_blank">サイトマップ</a></li>
         <li><a href="/common/CSfClaimEntry.jsp">お問い合わせ</a></li>
     </ul>
     <ul class="header-in-menu_button-type">
@@ -534,6 +534,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
 				<li><a href="/f/dsd-107004008008--" target="">前田裕二「メモの魔力」の文具</a></li>
 				<li><a href="/f/dsd-107004008009--" target="">大学グッズ</a></li>
 				<li><a href="/f/dsd-107004008010--" target="">コミックまとめ買い</a></li>
+				<li><a href="/f/dsd-107004008013--" target="">偕拓堂アート</a></li>
 				<li><a href="/f/dsd-107004008011--" target="">鉱石・化石プレゼント特集</a></li>
 				<li><a href="/f/dsd-107004008012--" target="">かいけつゾロリ35周年グッズ</a></li>
 				<li><a href="/f/dsd-107004008014--" target="">紀伊國屋書店オリジナルトートバッグ</a></li>
@@ -730,7 +731,7 @@ googletag.enableServices();
               </ul>
     <form name="goodsForm" action="../cart/CCtAddGoodsToCart.jsp" method="post" class="formArea ml00 mr00">
   <input type="hidden" name="actionId" />
-  <input type="hidden" name="CFM_ID" value="65549250" />
+  <input type="hidden" name="CFM_ID" value="80461526" />
   <input type="checkbox" name="GOODS_INFO_SET_1" value="9784774172736|01" style="display: none;" checked="checked"/>
   <input type="hidden" name="tp" value="1" />
   <input type="hidden" name="GOODS_STK_NO" value="9784774172736" />
@@ -836,68 +837,7 @@ googletag.enableServices();
           <h3>著者等紹介</h3>
             <p><b>吉本集</b>［ヨシモトツドイ］ <br />１９８１年生まれ、札幌出身。Ｗｅｂ制作会社で経験を積んだ後、２００８年にフリーランスとして活動、２０１０年、株式会社ａｒｕを設立。現在、フロントエンドエンジニアとして活動中（本データはこの書籍が刊行された当時に掲載されていたものです）<br/>※書籍に掲載されている著者及び編者、訳者、監修者、イラストレーターなどの紹介情報です。</p>
           </div>
-    <div class="acd-label-position">
-    <div class="title_area">
-      <h2 class="tType">感想・レビュー</h2>
-    </div>
-
-    <input id="acd-block" class="acd-check" type="checkbox" checked>
-    <label class="acd-label" for="acd-block"></label>
-
-    <div class="reviews acd-content"  ontouchstart="">
-      <p class="note">※以下の感想・レビューは、株式会社ブックウォーカーの提供する「読書メーター」によるものです。</p>
-      <div class="rev">
-          <div class="one-line">
-            <p class="review-name">nori</p>
-            <div class="nice">6</div>
-          </div>
-          <div class="comment">
-            It is not practical for my use since way of debug is not explained.  Also, there may be framework which uses JavaScript.  While, word of AJAX is now dead?  My knowledge seems so outdated.<span class="yymmdd">2022/01/19</span>
-          </div>
-        </div>
-      <div class="rev">
-          <div class="one-line">
-            <p class="review-name">doremi</p>
-            <div class="nice">1</div>
-          </div>
-          <div class="comment">
-            仕事の現場でサッと使えるかは謎でしたが、画像のロード処理を配列を用いてプリロードを実装するうまい方法など、一歩踏み込んだ解説書になっている良書でした。プラグインにあまり頼らず、自作系でゴリゴリ仕組みを作りたい方にとっては、いい足がかりやヒントになると思いました。 いい本だなと思ったら案の定Flash系で有名な67WSさんの書籍でした。<span class="yymmdd">2016/01/04</span>
-          </div>
-        </div>
-      <div class="rev">
-          <div class="one-line">
-            <p class="review-name">piro5</p>
-            <div class="nice">1</div>
-          </div>
-          <div class="comment">
-            JQueryの概要を知りたかっただけなので大半は流し読みしたけど、丁寧な解説で良い本だと思う。<span class="yymmdd">2015/05/25</span>
-          </div>
-        </div>
-      <div class="right-position">
-        <label class="open" for="pop-up">レビューを書く、レビューをもっと見る</label>
-        <input type="checkbox" id="pop-up">
-        <div class="overlay">
-          <div class="window">
-            <h2>外部のウェブサイトに移動します </h2>
-            <p>よろしければ下記URLをクリックしてください。</p>
-            <a href="https://bookmeter.com/books/9722761" target="_blank" class="URLtext">https://bookmeter.com/books/9722761</a>
-            <p class="attention">
-              <strong>ご注意</strong><br>
-              リンク先のウェブサイトは、株式会社ブックウォーカーの提供する「読書メーター」のページで、紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br>
-              この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。ウェブサイトのアドレスについては廃止や変更されることがあります。<br>
-              最新のアドレスについては、お客様ご自身でご確認ください。<br>
-              リンク先のウェブサイトについては、「株式会社ブックウォーカー」にご確認ください。
-            </p>
-            <div class="close">
-              <label class="" for="pop-up">閉じる</label>
-            </div>
-          </div>
-        </div>
-        <a ><img src="../images/parts/product/bookmeter.png" height="20px"></a>
-      </div>
-    </div>
-    </div>
-  <script type="text/javascript" src="../js/explosion/fsrecommend.js"></script>
+    <script type="text/javascript" src="../js/explosion/fsrecommend.js"></script>
 
 <div id="fsrecommenddiv8"></div>
 <div class="title_area">
@@ -906,8 +846,8 @@ googletag.enableServices();
   <div class="book_list">
     <dl >
         <dt>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784297127473'>
-            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/42971/4297127474.jpg" alt="プロを目指す人のためのＴｙｐｅＳｃｒｉｐｔ入門 - 安全なコードの書き方から高度な型の使い方まで" />
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784873119380'>
+            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/48731/4873119383.jpg" alt="Ｒｅａｃｔハンズオンラーニング - Ｗｅｂアプリケーション開発のベストプラクティス （第２版）" />
           </a>
           <div class="category clearfix">
             <ul>
@@ -916,8 +856,8 @@ googletag.enableServices();
           </div>
         </dt>
         <dd>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784297127473'>
-            プロを目指す人のためのＴｙｐｅＳｃｒｉ…</a>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784873119380'>
+            Ｒｅａｃｔハンズオンラーニング - Ｗ…</a>
         </dd>
         </dl>
     <dl >
@@ -938,8 +878,8 @@ googletag.enableServices();
         </dl>
     <dl >
         <dt>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774181882'>
-            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/47741/4774181889.jpg" alt="基礎からのＷｅｂアプリケーション開発入門 - Ｗｅｂサーバを作りながら学ぶ Ｓｏｆｔｗａｒｅ　Ｄｅｓｉｇｎ　ｐｌｕｓシリーズ" />
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784822254537'>
+            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/48222/4822254534.jpg" alt="ＡｎｇｕｌａｒによるモダンＷｅｂ開発［基礎編］ - ＡｎｇｕｌａｒでＰＷＡを開発してネイティブと同等の （第２版）" />
           </a>
           <div class="category clearfix">
             <ul>
@@ -948,14 +888,14 @@ googletag.enableServices();
           </div>
         </dt>
         <dd>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774181882'>
-            基礎からのＷｅｂアプリケーション開発入…</a>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784822254537'>
+            ＡｎｇｕｌａｒによるモダンＷｅｂ開発［…</a>
         </dd>
         </dl>
     <dl >
         <dt>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774153247'>
-            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/47741/4774153249.jpg" alt="ＣａｋｅＰＨＰ２実践入門 ＷＥＢ＋ＤＢ　ｐｒｅｓｓ　ｐｌｕｓシリーズ" />
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784844339458'>
+            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/48443/4844339451.jpg" alt="Ｌａｒａｖｅｌリファレンス - Ｗｅｂ職人好みの新世代ＰＨＰフレームワーク" />
           </a>
           <div class="category clearfix">
             <ul>
@@ -964,8 +904,24 @@ googletag.enableServices();
           </div>
         </dt>
         <dd>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774153247'>
-            ＣａｋｅＰＨＰ２実践入門 ＷＥＢ＋ＤＢ…</a>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784844339458'>
+            Ｌａｒａｖｅｌリファレンス - Ｗｅｂ…</a>
+        </dd>
+        </dl>
+    <dl class="mr00">
+        <dt>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784798131603'>
+            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/47981/4798131601.jpg" alt="ＪａｖａＳｃｒｉｐｔ辞典 - ＨＴＭＬ５対応 （第４版）" />
+          </a>
+          <div class="category clearfix">
+            <ul>
+              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
+              </ul>
+          </div>
+        </dt>
+        <dd>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784798131603'>
+            ＪａｖａＳｃｒｉｐｔ辞典 - ＨＴＭＬ…</a>
         </dd>
         </dl>
     </div>
@@ -1025,7 +981,10 @@ googletag.enableServices();
   <div id="maintenance">
           <ul>
       <li>
-            <a href="https://www.kinokuniya.co.jp/f/inews-1-260">【Kinoppy】Androidアプリに「カタログ」ページ登場！</a>
+            <a href="https://www.kinokuniya.co.jp/f/inews-1-185">Kinoppyポイント25倍キャンペーン9/11まで</a>
+          </li>
+      <li>
+            <a href="https://www.kinokuniya.co.jp/f/inews-1-260">ウェブストアの「ほしいものリスト」が使いやすくなりました!!</a>
           </li>
       <li>
             <a href="https://www.kinokuniya.co.jp/f/inews-1-265">洋書/海外マガジンの入荷遅延等について</a>
@@ -1063,11 +1022,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1374454843387-1');
     </form>
   </div>
   <!-- <!-- MyKiTSエリア ここから -->
-<!-- <div id="right_banner"> -->
-<!--   <ul> -->
-<!--     <li><div style="width:230px;height:65px;margin:0;padding:0;"><a href="https://gomykits.kinokuniya.co.jp/" target="gomykits"><img src="/contents/images/inc/MyKiTS-nav.jpg" alt="紀伊國屋書店教科書ストアMyKiTS" style="width:230px;margin:0;"></a></div></li> -->
-<!--   </ul> -->
-<!-- </div> -->
+<div id="right_banner">
+  <ul>
+     <li><div style="width:230px;height:65px;margin:0;padding:0;"><a href="https://gomykits.kinokuniya.co.jp/" target="gomykits"><img src="/contents/images/inc/MyKiTS-nav.jpg" alt="紀伊國屋書店教科書ストアMyKiTS" style="width:230px;margin:0;"></a></div></li>
+  </ul>
+</div>
 <!-- MyKiTSエリア ここまで -->
 <!-- Kinoppy バナーエリア ここから -->
 <div id="right_banner">

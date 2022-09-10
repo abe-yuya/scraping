@@ -92,7 +92,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
 <div id="logo_box">
     <h1><a href="https://www.kinokuniya.co.jp/">紀伊國屋書店</a></h1>
     <ul class="header-in-menu_text-type">
-        <li><a href="https://store.kinokuniya.co.jp/user-guide/" target="_blank">サイトのご利用案内</a></li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://store.kinokuniya.co.jp/user-guide/" target="_blank">サイトマップ</a></li>
         <li><a href="/common/CSfClaimEntry.jsp">お問い合わせ</a></li>
     </ul>
     <ul class="header-in-menu_button-type">
@@ -533,6 +533,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
 				<li><a href="/f/dsd-107004008008--" target="">前田裕二「メモの魔力」の文具</a></li>
 				<li><a href="/f/dsd-107004008009--" target="">大学グッズ</a></li>
 				<li><a href="/f/dsd-107004008010--" target="">コミックまとめ買い</a></li>
+				<li><a href="/f/dsd-107004008013--" target="">偕拓堂アート</a></li>
 				<li><a href="/f/dsd-107004008011--" target="">鉱石・化石プレゼント特集</a></li>
 				<li><a href="/f/dsd-107004008012--" target="">かいけつゾロリ35周年グッズ</a></li>
 				<li><a href="/f/dsd-107004008014--" target="">紀伊國屋書店オリジナルトートバッグ</a></li>
@@ -729,7 +730,7 @@ googletag.enableServices();
               </ul>
     <form name="goodsForm" action="../cart/CCtAddGoodsToCart.jsp" method="post" class="formArea ml00 mr00">
   <input type="hidden" name="actionId" />
-  <input type="hidden" name="CFM_ID" value="39435384" />
+  <input type="hidden" name="CFM_ID" value="82347533" />
   <input type="checkbox" name="GOODS_INFO_SET_1" value="9784297129163|01" style="display: none;" checked="checked"/>
   <input type="hidden" name="tp" value="1" />
   <input type="hidden" name="GOODS_STK_NO" value="9784297129163" />
@@ -785,13 +786,13 @@ googletag.enableServices();
 
       <div class="delibox dotted ml10 mt05 pt05">
         <ul>
-          <li><span class="middle st green">在庫が僅少です。通常、3～7日後に出荷されます</span><br/>※事情により出荷が遅れたり、在庫切れとなる場合もございます。<br/>※他のご注文品がすべて揃ってからの発送が原則となります（ご予約品を除く）。<br/>※複数冊ご注文はお受けできません。</li>
+          <li><span class="middle st green">ウェブストアに54冊在庫がございます。</span>（2022年09月10日 15時34分現在）<br/>通常、ご注文翌日～2日後に出荷されます。</li>
 
                 <li>
                     <a href="javascript:void(0)" class="openBtn ORANGE rounded mt05 mb05">出荷予定日とご注意事項</a><br>
                     <span class="redhot">※上記を必ずご確認ください</span><br><br>
                     <span class="setslidePanel">
-                      【出荷予定日】<br/>■通常、3～7日後に出荷されます<br/><br/>【ご注意事項】 ※必ずお読みください<br/>◆在庫状況は刻々と変化しており、ご注文手続き中やご注文後に在庫切れとなることがございます。<br/>◆出荷予定日は確定ではなく、表示よりも出荷が遅れる場合が一部にございます。<br/>◆お届け日のご指定は承っておりません。<br/>◆「帯」はお付けできない場合がございます。<br/>◆画像の表紙や帯等は実物とは異なる場合があります。<br/>◆特に表記のない限り特典はありません。</span>
+                      【ご注意事項】 ※必ずお読みください<br/>◆在庫数は刻々と変動しており、ご注文手続き中に減ることもございます。<br/>◆在庫数以上の数量をご注文の場合には、超過した分はお取り寄せとなり日数がかかります。入手できないこともございます。<br/>◆事情により出荷が遅れる場合がございます。<br/>◆お届け日のご指定は承っておりません。<br/>◆「帯」はお付けできない場合がございます。<br/>◆画像の表紙や帯等は実物とは異なる場合があります。<br/>◆特に表記のない限り特典はありません。</span>
                   </li>
                 <li>●店舗受取サービス（送料無料）もご利用いただけます。<br/>ご注文ステップ「お届け先情報設定」にてお受け取り店をご指定ください。尚、受取店舗限定の特典はお付けできません。<a href = "https://faq.kinokuniya.co.jp/faq/show/890" target="_blank">詳細はこちら</a></li>
               </ul>
@@ -854,30 +855,52 @@ googletag.enableServices();
           <h3>著者等紹介</h3>
             <p><b>手島拓也</b>［テジマタクヤ］ <br />ＩＢＭやＬＩＮＥにて主にＷｅｂ製品開発を約７年間担当。その後、共同創業者兼ＣＴＯとしてタイにて起業、事業譲渡を経験。現在はシンガポールを拠点に東南アジア発のスタートアップスタジオＧＡＯＧＡＯを設立し代表を務める<br /><br /><b>吉田健人</b>［ヨシダタケト］ <br />日本経済新聞社、タイの総合商社系企業でアプリケーション開発を経験。現在はアドビ株式会社でＳｏｆｔｗａｒｅ　Ｄｅｖｅｌｏｐｍｅｎｔ　Ｅｎｇｉｎｅｅｒとして働く。ＤＸ（デジタルエクスペリエンス）系のプロダクト開発とローカリゼーションテクノロジーの研究開発に従事<br /><br /><b>高林佳稀</b>［タカバヤシヨシキ］ <br />シンガポールの金融系スタートアップにＷｅｂフロントエンドエンジニアとして就職し、取引ツールの開発を行う。その後、フリーランスとして複数のＷｅｂアプリ開発案件に携わる。現在は医療系スタートアップのＷｅｂアプリ開発にフルスタックエンジニアとして参画しつつ、ブロックチェーンのＯＳＳプロジェクトの開発に従事（本データはこの書籍が刊行された当時に掲載されていたものです）<br/>※書籍に掲載されている著者及び編者、訳者、監修者、イラストレーターなどの紹介情報です。</p>
           </div>
-    <script type="text/javascript" src="../js/explosion/fsrecommend.js"></script>
+    <div class="acd-label-position">
+    <div class="title_area">
+      <h2 class="tType">感想・レビュー</h2>
+    </div>
+
+    <input id="acd-block" class="acd-check" type="checkbox" checked>
+    <label class="acd-label" for="acd-block"></label>
+
+    <div class="reviews acd-content"  ontouchstart="">
+      <p class="note">※以下の感想・レビューは、株式会社ブックウォーカーの提供する「読書メーター」によるものです。</p>
+      <div class="rev">
+          <div class="one-line">
+            <p class="review-name">koheitakahashi_</p>
+            <div class="nice">0</div>
+          </div>
+          <div class="comment">
+            TS・Next.js でアプリを作りたいと思って本書を読みました。フロントエンドの歴史的背景から説明されており、自分のように Next.js について全く知らない人が概観を掴むために読む1冊としては良いと思いました。 一方で、本書内のコードには細かいミスがあり、そのまま写経しても動かないことがありました。公開されているリポジトリのコードでは修正されていたので、ソースコードを写経する場合はリポジトリの方を参照した方が良さそうです。<span class="yymmdd">2022/08/20</span>
+          </div>
+        </div>
+      <div class="right-position">
+        <label class="open" for="pop-up">レビューを書く、レビューをもっと見る</label>
+        <input type="checkbox" id="pop-up">
+        <div class="overlay">
+          <div class="window">
+            <h2>外部のウェブサイトに移動します </h2>
+            <p>よろしければ下記URLをクリックしてください。</p>
+            <a href="https://bookmeter.com/books/19777341" target="_blank" class="URLtext">https://bookmeter.com/books/19777341</a>
+            <p class="attention">
+              <strong>ご注意</strong><br>
+              リンク先のウェブサイトは、株式会社ブックウォーカーの提供する「読書メーター」のページで、紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br>
+              この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。ウェブサイトのアドレスについては廃止や変更されることがあります。<br>
+              最新のアドレスについては、お客様ご自身でご確認ください。<br>
+              リンク先のウェブサイトについては、「株式会社ブックウォーカー」にご確認ください。
+            </p>
+            <div class="close">
+              <label class="" for="pop-up">閉じる</label>
+            </div>
+          </div>
+        </div>
+        <a ><img src="../images/parts/product/bookmeter.png" height="20px"></a>
+      </div>
+    </div>
+    </div>
+  <script type="text/javascript" src="../js/explosion/fsrecommend.js"></script>
 
 <div id="fsrecommenddiv8"></div>
-<div class="title_area">
-    <h2><img src="../images/parts/form/midashi/h2_l009.png" alt="最近チェックした商品" width="179" height="16" ></h2>
-  </div>
-  <div class="book_list">
-    <dl >
-        <dt>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774144375'>
-            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/47741/4774144371.jpg" alt="パーフェクトＰＨＰ Ｐｅｒｆｅｃｔ　ｓｅｒｉｅｓ" />
-          </a>
-          <div class="category clearfix">
-            <ul>
-              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
-              </ul>
-          </div>
-        </dt>
-        <dd>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774144375'>
-            パーフェクトＰＨＰ Ｐｅｒｆｅｃｔ　ｓ…</a>
-        </dd>
-        </dl>
-    </div>
 <!-- このセットに含まれる商品一覧(親)ここから -->
     <!-- このセットに含まれる商品一覧(親)ここまで -->
 
@@ -934,7 +957,10 @@ googletag.enableServices();
   <div id="maintenance">
           <ul>
       <li>
-            <a href="https://www.kinokuniya.co.jp/f/inews-1-260">【Kinoppy】Androidアプリに「カタログ」ページ登場！</a>
+            <a href="https://www.kinokuniya.co.jp/f/inews-1-185">Kinoppyポイント25倍キャンペーン9/11まで</a>
+          </li>
+      <li>
+            <a href="https://www.kinokuniya.co.jp/f/inews-1-260">ウェブストアの「ほしいものリスト」が使いやすくなりました!!</a>
           </li>
       <li>
             <a href="https://www.kinokuniya.co.jp/f/inews-1-265">洋書/海外マガジンの入荷遅延等について</a>
@@ -972,11 +998,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1374454843387-1');
     </form>
   </div>
   <!-- <!-- MyKiTSエリア ここから -->
-<!-- <div id="right_banner"> -->
-<!--   <ul> -->
-<!--     <li><div style="width:230px;height:65px;margin:0;padding:0;"><a href="https://gomykits.kinokuniya.co.jp/" target="gomykits"><img src="/contents/images/inc/MyKiTS-nav.jpg" alt="紀伊國屋書店教科書ストアMyKiTS" style="width:230px;margin:0;"></a></div></li> -->
-<!--   </ul> -->
-<!-- </div> -->
+<div id="right_banner">
+  <ul>
+     <li><div style="width:230px;height:65px;margin:0;padding:0;"><a href="https://gomykits.kinokuniya.co.jp/" target="gomykits"><img src="/contents/images/inc/MyKiTS-nav.jpg" alt="紀伊國屋書店教科書ストアMyKiTS" style="width:230px;margin:0;"></a></div></li>
+  </ul>
+</div>
 <!-- MyKiTSエリア ここまで -->
 <!-- Kinoppy バナーエリア ここから -->
 <div id="right_banner">
@@ -1141,8 +1167,8 @@ _uih['lg_id'] = '';
 _uih['fb_id'] = '';
 _uih['tw_id'] = '';
   
-_uih['uigr_1'] = '01:<span class="middle st green">在庫が僅少です。通常、3～7日後に出荷されます</span><br/>※事情により出荷が遅れたり、在庫切れとなる場合もございます。<br/>※他のご注文品がすべて揃ってからの発送が原則となります（ご予約品を除く）。<br/>※複数冊ご注文はお受けできません。<br/><br/>【出荷予定日】<br/>■通常、3～7日後に出荷されます<br/><br/>【ご注意事項】 ※必ずお読みください<br/>◆在庫状況は刻々と変化しており、ご注文手続き中やご注文後に在庫切れとなることがございます。<br/>◆出荷予定日は確定ではなく、表示よりも出荷が遅れる場合が一部にございます。<br/>◆お届け日のご指定は承っておりません。<br/>◆「帯」はお付けできない場合がございます。<br/>◆画像の表紙や帯等は実物とは異なる場合があります。<br/>◆特に表記のない限り特典はありません。<br/><br/>●店舗受取サービス（送料無料）もご利用いただけます。<br/>ご注文ステップ「お届け先情報設定」にてお受け取り店をご指定ください。尚、受取店舗限定の特典はお付けできません。<a href = "https://faq.kinokuniya.co.jp/faq/show/890" target="_blank">詳細はこちら</a>'; _uih['uigr_2'] = ''; _uih['uigr_3'] = ''; _uih['uigr_4'] = ''; _uih['uigr_5'] = '';
-ga('send', 'event', 'washoDetail', 'view', '<span class="middle st green">在庫が僅少です。通常、3～7日後に出荷されます</span><br/>※事情により出荷が遅れたり、在庫切れとなる場合もございます。<br/>※他のご注文品がすべて揃ってからの発送が原則となります（ご予約品を除く）。<br/>※複数冊ご注文はお受けできません。<br/><br/>【出荷予定日】<br/>■通常、3～7日後に出荷されます<br/><br/>【ご注意事項】 ※必ずお読みください<br/>◆在庫状況は刻々と変化しており、ご注文手続き中やご注文後に在庫切れとなることがございます。<br/>◆出荷予定日は確定ではなく、表示よりも出荷が遅れる場合が一部にございます。<br/>◆お届け日のご指定は承っておりません。<br/>◆「帯」はお付けできない場合がございます。<br/>◆画像の表紙や帯等は実物とは異なる場合があります。<br/>◆特に表記のない限り特典はありません。<br/><br/>●店舗受取サービス（送料無料）もご利用いただけます。<br/>ご注文ステップ「お届け先情報設定」にてお受け取り店をご指定ください。尚、受取店舗限定の特典はお付けできません。<a href = "https://faq.kinokuniya.co.jp/faq/show/890" target="_blank">詳細はこちら</a>');
+_uih['uigr_1'] = '01:<span class="middle st green">ウェブストアに54冊在庫がございます。</span>（2022年09月10日 15時34分現在）<br/>通常、ご注文翌日～2日後に出荷されます。<br/><br/>【ご注意事項】 ※必ずお読みください<br/>◆在庫数は刻々と変動しており、ご注文手続き中に減ることもございます。<br/>◆在庫数以上の数量をご注文の場合には、超過した分はお取り寄せとなり日数がかかります。入手できないこともございます。<br/>◆事情により出荷が遅れる場合がございます。<br/>◆お届け日のご指定は承っておりません。<br/>◆「帯」はお付けできない場合がございます。<br/>◆画像の表紙や帯等は実物とは異なる場合があります。<br/>◆特に表記のない限り特典はありません。<br/><br/>●店舗受取サービス（送料無料）もご利用いただけます。<br/>ご注文ステップ「お届け先情報設定」にてお受け取り店をご指定ください。尚、受取店舗限定の特典はお付けできません。<a href = "https://faq.kinokuniya.co.jp/faq/show/890" target="_blank">詳細はこちら</a>'; _uih['uigr_2'] = ''; _uih['uigr_3'] = ''; _uih['uigr_4'] = ''; _uih['uigr_5'] = '';
+ga('send', 'event', 'washoDetail', 'view', '<span class="middle st green">ウェブストアに54冊在庫がございます。</span>（2022年09月10日 15時34分現在）<br/>通常、ご注文翌日～2日後に出荷されます。<br/><br/>【ご注意事項】 ※必ずお読みください<br/>◆在庫数は刻々と変動しており、ご注文手続き中に減ることもございます。<br/>◆在庫数以上の数量をご注文の場合には、超過した分はお取り寄せとなり日数がかかります。入手できないこともございます。<br/>◆事情により出荷が遅れる場合がございます。<br/>◆お届け日のご指定は承っておりません。<br/>◆「帯」はお付けできない場合がございます。<br/>◆画像の表紙や帯等は実物とは異なる場合があります。<br/>◆特に表記のない限り特典はありません。<br/><br/>●店舗受取サービス（送料無料）もご利用いただけます。<br/>ご注文ステップ「お届け先情報設定」にてお受け取り店をご指定ください。尚、受取店舗限定の特典はお付けできません。<a href = "https://faq.kinokuniya.co.jp/faq/show/890" target="_blank">詳細はこちら</a>');
     
 _uih['uigr_6'] = ''; _uih['uigr_7'] = ''; _uih['uigr_8'] = ''; _uih['uigr_9'] = ''; _uih['uigr_10'] = '';
 

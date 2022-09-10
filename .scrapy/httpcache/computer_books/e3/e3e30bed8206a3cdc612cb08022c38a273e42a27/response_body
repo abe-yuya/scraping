@@ -92,7 +92,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
 <div id="logo_box">
     <h1><a href="https://www.kinokuniya.co.jp/">紀伊國屋書店</a></h1>
     <ul class="header-in-menu_text-type">
-        <li><a href="https://store.kinokuniya.co.jp/user-guide/" target="_blank">サイトのご利用案内</a></li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://store.kinokuniya.co.jp/user-guide/" target="_blank">サイトマップ</a></li>
         <li><a href="/common/CSfClaimEntry.jsp">お問い合わせ</a></li>
     </ul>
     <ul class="header-in-menu_button-type">
@@ -533,6 +533,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
 				<li><a href="/f/dsd-107004008008--" target="">前田裕二「メモの魔力」の文具</a></li>
 				<li><a href="/f/dsd-107004008009--" target="">大学グッズ</a></li>
 				<li><a href="/f/dsd-107004008010--" target="">コミックまとめ買い</a></li>
+				<li><a href="/f/dsd-107004008013--" target="">偕拓堂アート</a></li>
 				<li><a href="/f/dsd-107004008011--" target="">鉱石・化石プレゼント特集</a></li>
 				<li><a href="/f/dsd-107004008012--" target="">かいけつゾロリ35周年グッズ</a></li>
 				<li><a href="/f/dsd-107004008014--" target="">紀伊國屋書店オリジナルトートバッグ</a></li>
@@ -729,7 +730,7 @@ googletag.enableServices();
               </ul>
     <form name="goodsForm" action="../cart/CCtAddGoodsToCart.jsp" method="post" class="formArea ml00 mr00">
   <input type="hidden" name="actionId" />
-  <input type="hidden" name="CFM_ID" value="91285503" />
+  <input type="hidden" name="CFM_ID" value="54990373" />
   <input type="checkbox" name="GOODS_INFO_SET_1" value="9784295001133|01" style="display: none;" checked="checked"/>
   <input type="hidden" name="tp" value="1" />
   <input type="hidden" name="GOODS_STK_NO" value="9784295001133" />
@@ -836,7 +837,86 @@ googletag.enableServices();
           <h3>著者等紹介</h3>
             <p><b>アテンシオ，ルイス</b>［アテンシオ，ルイス］ ［Ａｔｅｎｃｉｏ，Ｌｕｉｓ］<br />米国フロリダ州のフォートローダーテールに本社のある、仮想化ソフトウェアベンダーのシトリックス・システムズに所属するソフトウェア開発エンジニア。コンピュータサイエンス分野で学士号と修士号を取得。ＪａｖａＳｃｒｉｐｔ、Ｊａｖａ、ＰＨＰのアプリケーション開発／設計にフルタイムで従事している。技術コミュニティに積極的に参加し、ローカルのイベントでは発表活動も頻繁に行う。ソフトウェアエンジニアリングについてのブログを運営<br /><br /><b>加藤大雄</b>［カトウヒロオ］ <br />株式会社イディオマコムニカ所属、ＩＴエンジニア。大学で機械工学を専攻するも、ＩＴ業界に飛び込んで以来、ＩＴエンジニア一筋。技術者として設計開発・運用保守だけでなく、製品開発、ＱＡ、保守の技術部長も経験。日英／英日の技術翻訳、特許翻訳も行う。Ｖａｌｅｎｔｅ翻訳スクールにてＩＴコースの講師を担当（本データはこの書籍が刊行された当時に掲載されていたものです）<br/>※書籍に掲載されている著者及び編者、訳者、監修者、イラストレーターなどの紹介情報です。</p>
           </div>
-    <script type="text/javascript" src="../js/explosion/fsrecommend.js"></script>
+    <div class="acd-label-position">
+    <div class="title_area">
+      <h2 class="tType">感想・レビュー</h2>
+    </div>
+
+    <input id="acd-block" class="acd-check" type="checkbox" checked>
+    <label class="acd-label" for="acd-block"></label>
+
+    <div class="reviews acd-content"  ontouchstart="">
+      <p class="note">※以下の感想・レビューは、株式会社ブックウォーカーの提供する「読書メーター」によるものです。</p>
+      <div class="rev">
+          <div class="one-line">
+            <p class="review-name">つるたん</p>
+            <div class="nice">1</div>
+          </div>
+          <div class="comment">
+            今まで純粋関数型言語を使った関数型プログラミングの本はいくつか読んできたが、JavaScriptのような非純粋関数型言語でどのように関数型プログラミングを実現するかについて書かれた本は初めてでとても新鮮であった。Haskellなどで組み込まれているカリー化、合成、モナド、末尾再帰などをJavaScriptどう書くか、また命令的に書かれたコードを宣言的に書き直すとどのようにきれいになるかを詳しく書いており非常に参考になった。身近な言語であったため業務に即座に活かせそうである。また圏論についても学びたくなった<span class="yymmdd">2021/04/11</span>
+          </div>
+        </div>
+      <div class="rev">
+          <div class="one-line">
+            <p class="review-name">ozackiee</p>
+            <div class="nice">1</div>
+          </div>
+          <div class="comment">
+            ★★★☆☆<span class="yymmdd">2020/08/27</span>
+          </div>
+        </div>
+      <div class="rev">
+          <div class="one-line">
+            <p class="review-name">reduce</p>
+            <div class="nice">1</div>
+          </div>
+          <div class="comment">
+            第5章のモナドの実装と使い方の説明がわかりやすい。第8章ではPromiseとジェネレータ関数を関数型プログラミングで活用する方法が紹介されている。訳注が筆者の意図を推測して、理解を助けてくれて良い。<span class="yymmdd">2017/07/23</span>
+          </div>
+        </div>
+      <div class="rev">
+          <div class="one-line">
+            <p class="review-name">homuhomu20130219</p>
+            <div class="nice">0</div>
+          </div>
+          <div class="comment">
+            思っていたよりも時間が掛かったし 内容も難しく理解できてない部分も多い。 ※maybeとかEither等。  とはいえ、関数型の本としてはわかりやすい方であり いくつか有益な部分があった。 ※カリー化のメリットがイマイチだったが 　この本でカリー化について学べた。   <span class="yymmdd">2021/09/29</span>
+          </div>
+        </div>
+      <div class="rev">
+          <div class="one-line">
+            <p class="review-name">たぬき</p>
+            <div class="nice">0</div>
+          </div>
+          <div class="comment">
+            「Secret of the Javascript Ninja」 (pp.68-69) 、「JavaScript:The Good Parts」(p.221)に言及あり。<span class="yymmdd">2018/10/23</span>
+          </div>
+        </div>
+      <div class="right-position">
+        <label class="open" for="pop-up">レビューを書く、レビューをもっと見る</label>
+        <input type="checkbox" id="pop-up">
+        <div class="overlay">
+          <div class="window">
+            <h2>外部のウェブサイトに移動します </h2>
+            <p>よろしければ下記URLをクリックしてください。</p>
+            <a href="https://bookmeter.com/books/11749947" target="_blank" class="URLtext">https://bookmeter.com/books/11749947</a>
+            <p class="attention">
+              <strong>ご注意</strong><br>
+              リンク先のウェブサイトは、株式会社ブックウォーカーの提供する「読書メーター」のページで、紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br>
+              この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。ウェブサイトのアドレスについては廃止や変更されることがあります。<br>
+              最新のアドレスについては、お客様ご自身でご確認ください。<br>
+              リンク先のウェブサイトについては、「株式会社ブックウォーカー」にご確認ください。
+            </p>
+            <div class="close">
+              <label class="" for="pop-up">閉じる</label>
+            </div>
+          </div>
+        </div>
+        <a ><img src="../images/parts/product/bookmeter.png" height="20px"></a>
+      </div>
+    </div>
+    </div>
+  <script type="text/javascript" src="../js/explosion/fsrecommend.js"></script>
 
 <div id="fsrecommenddiv8"></div>
 <div class="title_area">
@@ -845,8 +925,8 @@ googletag.enableServices();
   <div class="book_list">
     <dl >
         <dt>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784297127473'>
-            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/42971/4297127474.jpg" alt="プロを目指す人のためのＴｙｐｅＳｃｒｉｐｔ入門 - 安全なコードの書き方から高度な型の使い方まで" />
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784873119380'>
+            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/48731/4873119383.jpg" alt="Ｒｅａｃｔハンズオンラーニング - Ｗｅｂアプリケーション開発のベストプラクティス （第２版）" />
           </a>
           <div class="category clearfix">
             <ul>
@@ -855,8 +935,8 @@ googletag.enableServices();
           </div>
         </dt>
         <dd>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784297127473'>
-            プロを目指す人のためのＴｙｐｅＳｃｒｉ…</a>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784873119380'>
+            Ｒｅａｃｔハンズオンラーニング - Ｗ…</a>
         </dd>
         </dl>
     <dl >
@@ -877,8 +957,8 @@ googletag.enableServices();
         </dl>
     <dl >
         <dt>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784295001249'>
-            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/42950/4295001244.jpg" alt="いちばんやさしいＰＨＰの教本 - 人気講師が教える実践Ｗｅｂプログラミング （第２版）" />
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784802511124'>
+            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/48025/4802511124.jpg" alt="ミーティングのデザイン - エンジニア、デザイナー、マネージャーが知っておくべ" />
           </a>
           <div class="category clearfix">
             <ul>
@@ -887,14 +967,14 @@ googletag.enableServices();
           </div>
         </dt>
         <dd>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784295001249'>
-            いちばんやさしいＰＨＰの教本 - 人気…</a>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784802511124'>
+            ミーティングのデザイン - エンジニア…</a>
         </dd>
         </dl>
     <dl >
         <dt>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774174426'>
-            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/47741/4774174424.jpg" alt="ＪａｖａＳｃｒｉｐｔ仕事の現場でサッと使える！デザイン教科書 Ｗｅｂデザイナー養成講座" />
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774149745'>
+            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/47741/4774149748.jpg" alt="２週間でできる！スクリプト言語の作り方 Ｓｏｆｔｗａｒｅ　Ｄｅｓｉｇｎ　ｐｌｕｓシリーズ" />
           </a>
           <div class="category clearfix">
             <ul>
@@ -903,14 +983,14 @@ googletag.enableServices();
           </div>
         </dt>
         <dd>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774174426'>
-            ＪａｖａＳｃｒｉｐｔ仕事の現場でサッと…</a>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774149745'>
+            ２週間でできる！スクリプト言語の作り方…</a>
         </dd>
         </dl>
     <dl class="mr00">
         <dt>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784798119878'>
-            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/47981/4798119873.jpg" alt="ＰＨＰ逆引きレシピ - すぐに美味しいサンプル＆テクニック３１５ Ｐｒｏｇｒａｍｍｅｒ’ｓ　ｒｅｃｉｐｅ （第２版）" />
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774138053'>
+            <img onerror="alterImage(this, '../images/web/nowprint.gif')" width="120" src="../images/goods/ar2/web/imgdata2/47741/4774138053.jpg" alt="Ｐｙｔｈｏｎポケットリファレンス Ｐｏｃｋｅｔ　ｒｅｆｅｒｅｎｃｅ" />
           </a>
           <div class="category clearfix">
             <ul>
@@ -919,8 +999,8 @@ googletag.enableServices();
           </div>
         </dt>
         <dd>
-          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784798119878'>
-            ＰＨＰ逆引きレシピ - すぐに美味しい…</a>
+          <a href='https://www.kinokuniya.co.jp/f/dsg-01-9784774138053'>
+            Ｐｙｔｈｏｎポケットリファレンス Ｐｏ…</a>
         </dd>
         </dl>
     </div>
@@ -980,7 +1060,10 @@ googletag.enableServices();
   <div id="maintenance">
           <ul>
       <li>
-            <a href="https://www.kinokuniya.co.jp/f/inews-1-260">【Kinoppy】Androidアプリに「カタログ」ページ登場！</a>
+            <a href="https://www.kinokuniya.co.jp/f/inews-1-185">Kinoppyポイント25倍キャンペーン9/11まで</a>
+          </li>
+      <li>
+            <a href="https://www.kinokuniya.co.jp/f/inews-1-260">ウェブストアの「ほしいものリスト」が使いやすくなりました!!</a>
           </li>
       <li>
             <a href="https://www.kinokuniya.co.jp/f/inews-1-265">洋書/海外マガジンの入荷遅延等について</a>
@@ -1018,11 +1101,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1374454843387-1');
     </form>
   </div>
   <!-- <!-- MyKiTSエリア ここから -->
-<!-- <div id="right_banner"> -->
-<!--   <ul> -->
-<!--     <li><div style="width:230px;height:65px;margin:0;padding:0;"><a href="https://gomykits.kinokuniya.co.jp/" target="gomykits"><img src="/contents/images/inc/MyKiTS-nav.jpg" alt="紀伊國屋書店教科書ストアMyKiTS" style="width:230px;margin:0;"></a></div></li> -->
-<!--   </ul> -->
-<!-- </div> -->
+<div id="right_banner">
+  <ul>
+     <li><div style="width:230px;height:65px;margin:0;padding:0;"><a href="https://gomykits.kinokuniya.co.jp/" target="gomykits"><img src="/contents/images/inc/MyKiTS-nav.jpg" alt="紀伊國屋書店教科書ストアMyKiTS" style="width:230px;margin:0;"></a></div></li>
+  </ul>
+</div>
 <!-- MyKiTSエリア ここまで -->
 <!-- Kinoppy バナーエリア ここから -->
 <div id="right_banner">
