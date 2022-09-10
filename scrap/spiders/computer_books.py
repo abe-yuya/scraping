@@ -11,7 +11,8 @@ class ComputerBooksSpider(CrawlSpider):
 
     rules = (
         # 最初のページを取得したら、最初の20冊の詳細ページへのリンクを辿る。取得した結果はparse_itemメソッドで処理
-        Rule(LinkExtractor(restrict_xpaths='//h3[@class="heightLine-2"]/a'), callback='parse_item', follow=False),
+        Rule(LinkExtractor(restrict_xpaths='//h3[@class="heightLine-2"]/a'), 
+        callback='parse_item', follow=False),
         # 最初のページの処理が終了したら、2ページ目に遷移
         Rule(LinkExtractor(restrict_xpaths='(//a[contains(text(), "次へ")])[1]')),
         )

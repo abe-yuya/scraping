@@ -14,6 +14,13 @@ NEWSPIDER_MODULE = 'scrap.spiders'
 
 FEED_EXPORT_ENCODING = 'utf-8'
 
+# 順番に処理できるように設定
+CONCURRENT_REQUESTS = 1
+
+DEPTH_PRIORITY = 1
+SCHEDULER_DISK_QUEUE = 'scrapy.squeues.PickleFifoDiskQueue'
+SCHEDULER_MEMORY_QUEUE = 'scrapy.squeues.FifoMemoryQueue'
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36'
