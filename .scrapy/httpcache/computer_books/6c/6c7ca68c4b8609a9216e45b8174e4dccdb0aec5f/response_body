@@ -13,7 +13,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="../css/main/common/import.css?vsr=1.4">
 <script type="text/javascript" src="../js/common/jquery-1.8.3.min.js"></script> <!--【K-5】jqueryバージョンアップ -->
 <!--ページ専用-->
-<link rel="stylesheet" type="text/css" href="../css/main/goods-list/import.css?vsr=1.1">
+<link rel="stylesheet" type="text/css" href="../css/main/goods-list/import.css?vsr=1.2">
 <style type="text/css">
 <!--
     .google_bt_none {display: none}
@@ -76,7 +76,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
 <div id="logo_box">
     <h1><a href="https://www.kinokuniya.co.jp/">紀伊國屋書店</a></h1>
     <ul class="header-in-menu_text-type">
-        <li><a href="https://store.kinokuniya.co.jp/user-guide/" target="_blank">サイトのご利用案内</a></li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://store.kinokuniya.co.jp/user-guide/" target="_blank">サイトマップ</a></li>
         <li><a href="/common/CSfClaimEntry.jsp">お問い合わせ</a></li>
     </ul>
     <ul class="header-in-menu_button-type">
@@ -517,6 +517,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
 				<li><a href="/f/dsd-107004008008--" target="">前田裕二「メモの魔力」の文具</a></li>
 				<li><a href="/f/dsd-107004008009--" target="">大学グッズ</a></li>
 				<li><a href="/f/dsd-107004008010--" target="">コミックまとめ買い</a></li>
+				<li><a href="/f/dsd-107004008013--" target="">偕拓堂アート</a></li>
 				<li><a href="/f/dsd-107004008011--" target="">鉱石・化石プレゼント特集</a></li>
 				<li><a href="/f/dsd-107004008012--" target="">かいけつゾロリ35周年グッズ</a></li>
 				<li><a href="/f/dsd-107004008014--" target="">紀伊國屋書店オリジナルトートバッグ</a></li>
@@ -598,13 +599,13 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
           <div class="other_box_inner">
             <ul>
               <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=技術評論社">技術評論社</a></li>
-                  <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=翔泳社">翔泳社</a></li>
                   <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=オライリー・ジャパン">オライリー・ジャパン</a></li>
+                  <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=翔泳社">翔泳社</a></li>
                   <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=マイナビ出版">マイナビ出版</a></li>
                   <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=インプレス">インプレス</a></li>
+                  <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=カットシステム">カットシステム</a></li>
                   <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=秀和システム">秀和システム</a></li>
                   <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=シーアンドアール研究所">シーアンドアール研究所</a></li>
-                  <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=カットシステム">カットシステム</a></li>
                   <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=リックテレコム">リックテレコム</a></li>
                   <li><a href="https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?dispNo=101001037028005&sort=06&publisher-key=ソーテック社">ソーテック社</a></li>
                   </ul>
@@ -648,7 +649,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             </ul>
 
             <div class="navi_area pt15">
-                <div class=counter>1～20件／全82件
+                <div class=counter>1～20件／全83件
 
     <span class="sSearch-on">セーフサーチON</span>
       </div>
@@ -676,19 +677,19 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
 
     <div class="list_area clearfix pb10" >
         <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_1" name="GOODS_INFO_SET_1" value="9784863543720|01|">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_1" name="GOODS_INFO_SET_1" value="9784297129163|01|">
           <div class="select_section2">
                 <label for="omissionThumb1"><input id="omissionThumb1" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_1').checked;document.getElementById('GOODS_INFO_SET_1').checked=!t;">選択</label>
               </div>
             <!--商品写真-->
-          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784863543720" class="thumbnail_box heightLine-1">
-                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48635/4863543727.jpg" alt="詳解Ｇｏ言語Ｗｅｂアプリケーション開発" class="mb05" width="110"/>
+          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784297129163" class="thumbnail_box heightLine-1">
+                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/42971/4297129167.jpg" alt="ＴｙｐｅＳｃｒｉｐｔとＲｅａｃｔ／Ｎｅｘｔ．ｊｓでつくる実践Ｗｅｂアプリケーショ" class="mb05" width="110"/>
               </a>
             <div class="select_section">
                 <label for="omission1"><input id="omission1" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_1').checked;document.getElementById('GOODS_INFO_SET_1').checked=!t;"><span>選択</span></label>
               </div>
             <!--Googleプレビュー-->
-              <a id="ISBN9784863543720" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_1','googleDetailWrapper_1')"/> </a>
+              <a id="ISBN9784297129163" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_1','googleDetailWrapper_1')"/> </a>
               <!--カテゴリ一覧-->
           <div class="category">
             <ul>
@@ -699,24 +700,23 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
         <div class="listrightbloc">
           <div class="product_category clearfix mb10">
             <ul>
-              <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
               </ul>
           </div>
           <!--商品名-->
           <h3 class="heightLine-2">
-            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784863543720">詳解Ｇｏ言語Ｗｅｂアプリケーション開発</a>
+            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784297129163">ＴｙｐｅＳｃｒｉｐｔとＲｅａｃｔ／Ｎｅｘｔ．ｊｓでつくる実践Ｗｅｂアプリケーショ</a>
               </h3>
 
           <!--商品詳細-->
           <div class="details ml10">
             <p class="clearfix">
-              清水 陽一郎【著】<br>
+              手島 拓也/吉田 健人/高林 佳稀【著】<br>
               </p>
             </div>
           <!--価格-->
           <div class="pricebox ml10">
             <ul>
-              <li>価格 <span class="sale_price">&yen;3,003</span>（本体&yen;2,730）</li></ul>
+              <li>価格 <span class="sale_price">&yen;3,498</span>（本体&yen;3,180）</li></ul>
           </div>
           <!--価格フェア画面専用-->
           <!--在庫情報フェア画面用-->
@@ -724,9 +724,9 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
           <div class="details2 select_section1 ml10">
             <ul class="mb05">
               <li>
-                  シーアンドアール研究所（2022/08発売）</li>
-              <li>ポイント <span class="redhot">27pt</span></li>
-              <li><span class="middle st green">在庫僅少</span>（通常、3～7日後に出荷）<br/>※出荷が遅れたり、在庫切れとなる場合もございます。<br/>※複数冊ご注文の場合にはお取り寄せとなり1～3週間程度かかります。</li>
+                  技術評論社（2022/08発売）</li>
+              <li>ポイント <span class="redhot">31pt</span></li>
+              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
                   </ul>
             </div>
         </div>
@@ -736,7 +736,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_1','jpoDetailWrapper_1');openListTryRead('jpoWrapper_1','9784863543720','1')">https://kinokuniya.tameshiyo.me/9784863543720</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_1','jpoDetailWrapper_1');openListTryRead('jpoWrapper_1','9784297129163','1')">https://kinokuniya.tameshiyo.me/9784297129163</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
               </div>
             </div>
@@ -752,7 +752,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_1','googleDetailWrapper_1');openListTryRead('googleWrapper_1','9784863543720','1')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784863543720</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_1','googleDetailWrapper_1');openListTryRead('googleWrapper_1','9784297129163','1')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784297129163</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
               </div>
             </div>
@@ -764,19 +764,282 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
         </div>
     <div class="list_area clearfix pb10" >
         <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_2" name="GOODS_INFO_SET_2" value="9784297127473|01|">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_2" name="GOODS_INFO_SET_2" value="9784877834609|01|">
           <div class="select_section2">
                 <label for="omissionThumb2"><input id="omissionThumb2" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_2').checked;document.getElementById('GOODS_INFO_SET_2').checked=!t;">選択</label>
+              </div>
+            <!--商品写真-->
+          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784877834609" class="thumbnail_box heightLine-1">
+                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48778/4877834605.jpg" alt="実践ＯｐｅｎＣＶ４　ｆｏｒ　Ｐｙｔｈｏｎ - 画像映像情報処理と機械学習" class="mb05" width="110"/>
+              </a>
+            <div class="select_section">
+                <label for="omission2"><input id="omission2" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_2').checked;document.getElementById('GOODS_INFO_SET_2').checked=!t;"><span>選択</span></label>
+              </div>
+            <!--Googleプレビュー-->
+              <a id="ISBN9784877834609" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_2','googleDetailWrapper_2')"/> </a>
+              <!--カテゴリ一覧-->
+          <div class="category">
+            <ul>
+              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
+              </ul>
+          </div>
+        </div>
+        <div class="listrightbloc">
+          <div class="product_category clearfix mb10">
+            <ul>
+              </ul>
+          </div>
+          <!--商品名-->
+          <h3 class="heightLine-2">
+            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784877834609">実践ＯｐｅｎＣＶ４　ｆｏｒ　Ｐｙｔｈｏｎ - 画像映像情報処理と機械学習</a>
+              </h3>
+
+          <!--商品詳細-->
+          <div class="details ml10">
+            <p class="clearfix">
+              永田雅人/豊沢聡<br>
+              </p>
+            </div>
+          <!--価格-->
+          <div class="pricebox ml10">
+            <ul>
+              <li>価格 <span class="sale_price">&yen;4,620</span>（本体&yen;4,200）</li></ul>
+          </div>
+          <!--価格フェア画面専用-->
+          <!--在庫情報フェア画面用-->
+          <!--商品詳細2-->
+          <div class="details2 select_section1 ml10">
+            <ul class="mb05">
+              <li>
+                  カットシステム（2021/01発売）</li>
+              <li>ポイント <span class="redhot">42pt</span></li>
+              <li><span class="middle st green">在庫僅少</span>（通常、3～7日後に出荷）<br/>※出荷が遅れたり、在庫切れとなる場合もございます。<br/>※複数冊ご注文の場合にはお取り寄せとなり1～3週間程度かかります。</li>
+                  </ul>
+            </div>
+        </div>
+        <div class="jpo-modal">
+          <div id="jpoWrapper_2" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_2" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_2','jpoDetailWrapper_2');openListTryRead('jpoWrapper_2','9784877834609','2')">https://kinokuniya.tameshiyo.me/9784877834609</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_2','jpoDetailWrapper_2')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="google-modal">
+          <div id="googleWrapper_2" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_2" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_2','googleDetailWrapper_2');openListTryRead('googleWrapper_2','9784877834609','2')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784877834609</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_2','googleDetailWrapper_2')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+        </div>
+    <div class="list_area clearfix pb10" >
+        <div class="listphoto clearfix">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_3" name="GOODS_INFO_SET_3" value="9784297111250|01|">
+          <div class="select_section2">
+                <label for="omissionThumb3"><input id="omissionThumb3" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_3').checked;document.getElementById('GOODS_INFO_SET_3').checked=!t;">選択</label>
+              </div>
+            <!--商品写真-->
+          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784297111250" class="thumbnail_box heightLine-1">
+                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/42971/429711125X.jpg" alt="ｊＱｕｅｒｙポケットリファレンス - ｊＱｕｅｒｙ３対応 Ｐｏｃｋｅｔ　ｒｅｆｅｒｅｎｃｅ （改訂新版）" class="mb05" width="110"/>
+              </a>
+            <div class="select_section">
+                <label for="omission3"><input id="omission3" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_3').checked;document.getElementById('GOODS_INFO_SET_3').checked=!t;"><span>選択</span></label>
+              </div>
+            <!--Googleプレビュー-->
+              <a id="ISBN9784297111250" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_3','googleDetailWrapper_3')"/> </a>
+              <!--カテゴリ一覧-->
+          <div class="category">
+            <ul>
+              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
+              </ul>
+          </div>
+        </div>
+        <div class="listrightbloc">
+          <div class="product_category clearfix mb10">
+            <ul>
+              </ul>
+          </div>
+          <!--商品名-->
+          <h3 class="heightLine-2">
+            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784297111250">ｊＱｕｅｒｙポケットリファレンス - ｊＱｕｅｒｙ３対応 Ｐｏｃｋｅｔ　ｒｅｆｅｒｅｎｃｅ （改訂新版）</a>
+              </h3>
+
+          <!--商品詳細-->
+          <div class="details ml10">
+            <p class="clearfix">
+              鶴田 展之【著】<br>
+              </p>
+            </div>
+          <!--価格-->
+          <div class="pricebox ml10">
+            <ul>
+              <li>価格 <span class="sale_price">&yen;3,168</span>（本体&yen;2,880）</li></ul>
+          </div>
+          <!--価格フェア画面専用-->
+          <!--在庫情報フェア画面用-->
+          <!--商品詳細2-->
+          <div class="details2 select_section1 ml10">
+            <ul class="mb05">
+              <li>
+                  技術評論社（2020/01発売）</li>
+              <li>ポイント <span class="redhot">28pt</span></li>
+              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
+                  </ul>
+            </div>
+        </div>
+        <div class="jpo-modal">
+          <div id="jpoWrapper_3" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_3" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_3','jpoDetailWrapper_3');openListTryRead('jpoWrapper_3','9784297111250','3')">https://kinokuniya.tameshiyo.me/9784297111250</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_3','jpoDetailWrapper_3')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="google-modal">
+          <div id="googleWrapper_3" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_3" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_3','googleDetailWrapper_3');openListTryRead('googleWrapper_3','9784297111250','3')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784297111250</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_3','googleDetailWrapper_3')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+        </div>
+    <div class="list_area clearfix pb10" >
+        <div class="listphoto clearfix">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_4" name="GOODS_INFO_SET_4" value="9784798153353|01|">
+          <div class="select_section2">
+                <label for="omissionThumb4"><input id="omissionThumb4" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_4').checked;document.getElementById('GOODS_INFO_SET_4').checked=!t;">選択</label>
+              </div>
+            <!--商品写真-->
+          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784798153353" class="thumbnail_box heightLine-1">
+                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/47981/4798153354.jpg" alt="Ｒｅａｃｔ入門 - Ｒｅａｃｔ・Ｒｅｄｕｘの導入からサーバサイドレンダ ＮＥＸＴ－ＯＮＥ" class="mb05" width="110"/>
+              </a>
+            <div class="select_section">
+                <label for="omission4"><input id="omission4" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_4').checked;document.getElementById('GOODS_INFO_SET_4').checked=!t;"><span>選択</span></label>
+              </div>
+            <!--Googleプレビュー-->
+              <a id="ISBN9784798153353" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_4','googleDetailWrapper_4')"/> </a>
+              <!--カテゴリ一覧-->
+          <div class="category">
+            <ul>
+              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
+              </ul>
+          </div>
+        </div>
+        <div class="listrightbloc">
+          <div class="product_category clearfix mb10">
+            <ul>
+              <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
+              <li class="mr05"><img src="../images/parts/goods-list/cam.gif" alt="ポイントキャンペーン" /></li>
+              </ul>
+          </div>
+          <!--商品名-->
+          <h3 class="heightLine-2">
+            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784798153353">Ｒｅａｃｔ入門 - Ｒｅａｃｔ・Ｒｅｄｕｘの導入からサーバサイドレンダ ＮＥＸＴ－ＯＮＥ</a>
+              </h3>
+
+          <!--商品詳細-->
+          <div class="details ml10">
+            <p class="clearfix">
+              穴井 宏幸/石井 直矢/柴田 和祈/三宮 肇【著】<br>
+              </p>
+            </div>
+          <!--価格-->
+          <div class="pricebox ml10">
+            <ul>
+              <li>価格 <span class="sale_price">&yen;3,278</span>（本体&yen;2,980）</li></ul>
+          </div>
+          <!--価格フェア画面専用-->
+          <!--在庫情報フェア画面用-->
+          <!--商品詳細2-->
+          <div class="details2 select_section1 ml10">
+            <ul class="mb05">
+              <li>
+                  翔泳社（2018/02発売）</li>
+              <li>ポイント <span class="redhot">145pt</span></li>
+              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
+                  </ul>
+            </div>
+        </div>
+        <div class="jpo-modal">
+          <div id="jpoWrapper_4" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_4" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_4','jpoDetailWrapper_4');openListTryRead('jpoWrapper_4','9784798153353','4')">https://kinokuniya.tameshiyo.me/9784798153353</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_4','jpoDetailWrapper_4')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="google-modal">
+          <div id="googleWrapper_4" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_4" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_4','googleDetailWrapper_4');openListTryRead('googleWrapper_4','9784798153353','4')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784798153353</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_4','googleDetailWrapper_4')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+        </div>
+    <div class="list_area clearfix pb10" >
+        <div class="listphoto clearfix">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_5" name="GOODS_INFO_SET_5" value="9784297127473|01|">
+          <div class="select_section2">
+                <label for="omissionThumb5"><input id="omissionThumb5" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_5').checked;document.getElementById('GOODS_INFO_SET_5').checked=!t;">選択</label>
               </div>
             <!--商品写真-->
           <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784297127473" class="thumbnail_box heightLine-1">
                 <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/42971/4297127474.jpg" alt="プロを目指す人のためのＴｙｐｅＳｃｒｉｐｔ入門 - 安全なコードの書き方から高度な型の使い方まで" class="mb05" width="110"/>
               </a>
             <div class="select_section">
-                <label for="omission2"><input id="omission2" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_2').checked;document.getElementById('GOODS_INFO_SET_2').checked=!t;"><span>選択</span></label>
+                <label for="omission5"><input id="omission5" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_5').checked;document.getElementById('GOODS_INFO_SET_5').checked=!t;"><span>選択</span></label>
               </div>
             <!--Googleプレビュー-->
-              <a id="ISBN9784297127473" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_2','googleDetailWrapper_2')"/> </a>
+              <a id="ISBN9784297127473" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_5','googleDetailWrapper_5')"/> </a>
               <!--カテゴリ一覧-->
           <div class="category">
             <ul>
@@ -818,278 +1081,12 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             </div>
         </div>
         <div class="jpo-modal">
-          <div id="jpoWrapper_2" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_2" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_2','jpoDetailWrapper_2');openListTryRead('jpoWrapper_2','9784297127473','2')">https://kinokuniya.tameshiyo.me/9784297127473</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_2','jpoDetailWrapper_2')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-
-        <div class="google-modal">
-          <div id="googleWrapper_2" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_2" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_2','googleDetailWrapper_2');openListTryRead('googleWrapper_2','9784297127473','2')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784297127473</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_2','googleDetailWrapper_2')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-        </div>
-    <div class="list_area clearfix pb10" >
-        <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_3" name="GOODS_INFO_SET_3" value="9784297129163|01|">
-          <div class="select_section2">
-                <label for="omissionThumb3"><input id="omissionThumb3" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_3').checked;document.getElementById('GOODS_INFO_SET_3').checked=!t;">選択</label>
-              </div>
-            <!--商品写真-->
-          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784297129163" class="thumbnail_box heightLine-1">
-                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/42971/4297129167.jpg" alt="ＴｙｐｅＳｃｒｉｐｔとＲｅａｃｔ／Ｎｅｘｔ．ｊｓでつくる実践Ｗｅｂアプリケーショ" class="mb05" width="110"/>
-              </a>
-            <div class="select_section">
-                <label for="omission3"><input id="omission3" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_3').checked;document.getElementById('GOODS_INFO_SET_3').checked=!t;"><span>選択</span></label>
-              </div>
-            <!--Googleプレビュー-->
-              <a id="ISBN9784297129163" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_3','googleDetailWrapper_3')"/> </a>
-              <!--カテゴリ一覧-->
-          <div class="category">
-            <ul>
-              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
-              </ul>
-          </div>
-        </div>
-        <div class="listrightbloc">
-          <div class="product_category clearfix mb10">
-            <ul>
-              </ul>
-          </div>
-          <!--商品名-->
-          <h3 class="heightLine-2">
-            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784297129163">ＴｙｐｅＳｃｒｉｐｔとＲｅａｃｔ／Ｎｅｘｔ．ｊｓでつくる実践Ｗｅｂアプリケーショ</a>
-              </h3>
-
-          <!--商品詳細-->
-          <div class="details ml10">
-            <p class="clearfix">
-              手島 拓也/吉田 健人/高林 佳稀【著】<br>
-              </p>
-            </div>
-          <!--価格-->
-          <div class="pricebox ml10">
-            <ul>
-              <li>価格 <span class="sale_price">&yen;3,498</span>（本体&yen;3,180）</li></ul>
-          </div>
-          <!--価格フェア画面専用-->
-          <!--在庫情報フェア画面用-->
-          <!--商品詳細2-->
-          <div class="details2 select_section1 ml10">
-            <ul class="mb05">
-              <li>
-                  技術評論社（2022/08発売）</li>
-              <li>ポイント <span class="redhot">31pt</span></li>
-              <li><span class="middle st green">在庫僅少</span>（通常、3～7日後に出荷）<br/>※出荷が遅れたり、在庫切れとなる場合もございます。<br/>※複数冊ご注文の場合にはお取り寄せとなり1～3週間程度かかります。</li>
-                  </ul>
-            </div>
-        </div>
-        <div class="jpo-modal">
-          <div id="jpoWrapper_3" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_3" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_3','jpoDetailWrapper_3');openListTryRead('jpoWrapper_3','9784297129163','3')">https://kinokuniya.tameshiyo.me/9784297129163</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_3','jpoDetailWrapper_3')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-
-        <div class="google-modal">
-          <div id="googleWrapper_3" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_3" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_3','googleDetailWrapper_3');openListTryRead('googleWrapper_3','9784297129163','3')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784297129163</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_3','googleDetailWrapper_3')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-        </div>
-    <div class="list_area clearfix pb10" >
-        <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_4" name="GOODS_INFO_SET_4" value="9784873119236|01|">
-          <div class="select_section2">
-                <label for="omissionThumb4"><input id="omissionThumb4" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_4').checked;document.getElementById('GOODS_INFO_SET_4').checked=!t;">選択</label>
-              </div>
-            <!--商品写真-->
-          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784873119236" class="thumbnail_box heightLine-1">
-                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48731/4873119235.jpg" alt="ハンズオンＮｏｄｅ．ｊｓ" class="mb05" width="110"/>
-              </a>
-            <div class="select_section">
-                <label for="omission4"><input id="omission4" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_4').checked;document.getElementById('GOODS_INFO_SET_4').checked=!t;"><span>選択</span></label>
-              </div>
-            <!--Googleプレビュー-->
-              <a id="ISBN9784873119236" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_4','googleDetailWrapper_4')"/> </a>
-              <!--カテゴリ一覧-->
-          <div class="category">
-            <ul>
-              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
-              </ul>
-          </div>
-        </div>
-        <div class="listrightbloc">
-          <div class="product_category clearfix mb10">
-            <ul>
-              </ul>
-          </div>
-          <!--商品名-->
-          <h3 class="heightLine-2">
-            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784873119236">ハンズオンＮｏｄｅ．ｊｓ</a>
-              </h3>
-
-          <!--商品詳細-->
-          <div class="details ml10">
-            <p class="clearfix">
-              今村 謙士【著】<br>
-              </p>
-            </div>
-          <!--価格-->
-          <div class="pricebox ml10">
-            <ul>
-              <li>価格 <span class="sale_price">&yen;4,070</span>（本体&yen;3,700）</li></ul>
-          </div>
-          <!--価格フェア画面専用-->
-          <!--在庫情報フェア画面用-->
-          <!--商品詳細2-->
-          <div class="details2 select_section1 ml10">
-            <ul class="mb05">
-              <li>
-                  オライリー・ジャパン（2020/11発売）</li>
-              <li>ポイント <span class="redhot">37pt</span></li>
-              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
-                  </ul>
-            </div>
-        </div>
-        <div class="jpo-modal">
-          <div id="jpoWrapper_4" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_4" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_4','jpoDetailWrapper_4');openListTryRead('jpoWrapper_4','9784873119236','4')">https://kinokuniya.tameshiyo.me/9784873119236</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_4','jpoDetailWrapper_4')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-
-        <div class="google-modal">
-          <div id="googleWrapper_4" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_4" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_4','googleDetailWrapper_4');openListTryRead('googleWrapper_4','9784873119236','4')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784873119236</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_4','googleDetailWrapper_4')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-        </div>
-    <div class="list_area clearfix pb10" >
-        <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_5" name="GOODS_INFO_SET_5" value="9784295202448|01|">
-          <div class="select_section2">
-                <label for="omissionThumb5"><input id="omissionThumb5" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_5').checked;document.getElementById('GOODS_INFO_SET_5').checked=!t;">選択</label>
-              </div>
-            <!--商品写真-->
-          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784295202448" class="thumbnail_box heightLine-1">
-                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/42952/4295202444.jpg" alt="デザインのネタ帳　コピペで使える動くＷｅｂデザインパーツ" class="mb05" width="110"/>
-              </a>
-            <div class="select_section">
-                <label for="omission5"><input id="omission5" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_5').checked;document.getElementById('GOODS_INFO_SET_5').checked=!t;"><span>選択</span></label>
-              </div>
-            <div id="jpo_tameshiyome_5" style="display: block;">
-
-                <a style='background-position: left top; width: 115px; height: 23px; background-image: url("../images/parts/goods-list/jpo_tameshiyome_button1.png"); display: block; background-size: 115px;' onmouseover="this.style.backgroundPosition='left bottom';" onmouseout="this.style.backgroundPosition='left top';" onclick="dialogOpen('jpoWrapper_5','jpoDetailWrapper_5')" href="javascript:void(0)" class="mb05 mr10"></a>
-
-                </div>
-
-              <!--カテゴリ一覧-->
-          <div class="category">
-            <ul>
-              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
-              </ul>
-          </div>
-        </div>
-        <div class="listrightbloc">
-          <div class="product_category clearfix mb10">
-            <ul>
-              <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
-              </ul>
-          </div>
-          <!--商品名-->
-          <h3 class="heightLine-2">
-            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784295202448">デザインのネタ帳　コピペで使える動くＷｅｂデザインパーツ</a>
-              </h3>
-
-          <!--商品詳細-->
-          <div class="details ml10">
-            <p class="clearfix">
-              矢野 みち子/五十嵐 小由利/伊藤 麻奈美/棧敷 友香子/綿織 幸知【共著】<br>
-              </p>
-            </div>
-          <!--価格-->
-          <div class="pricebox ml10">
-            <ul>
-              <li>価格 <span class="sale_price">&yen;3,080</span>（本体&yen;2,800）</li></ul>
-          </div>
-          <!--価格フェア画面専用-->
-          <!--在庫情報フェア画面用-->
-          <!--商品詳細2-->
-          <div class="details2 select_section1 ml10">
-            <ul class="mb05">
-              <li>
-                  エムディエヌコーポレーション（2022/03発売）</li>
-              <li>ポイント <span class="redhot">28pt</span></li>
-              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
-                  </ul>
-            </div>
-        </div>
-        <div class="jpo-modal">
           <div id="jpoWrapper_5" class="modal-wrapper" style="display: none;"></div>
           <div id="jpoDetailWrapper_5" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_5','jpoDetailWrapper_5');openListTryRead('jpoWrapper_5','9784295202448','5')">https://kinokuniya.tameshiyo.me/9784295202448</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_5','jpoDetailWrapper_5');openListTryRead('jpoWrapper_5','9784297127473','5')">https://kinokuniya.tameshiyo.me/9784297127473</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
               </div>
             </div>
@@ -1105,7 +1102,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_5','googleDetailWrapper_5');openListTryRead('googleWrapper_5','9784295202448','5')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784295202448</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_5','googleDetailWrapper_5');openListTryRead('googleWrapper_5','9784297127473','5')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784297127473</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
               </div>
             </div>
@@ -1117,193 +1114,19 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
         </div>
     <div class="list_area clearfix pb10" >
         <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_6" name="GOODS_INFO_SET_6" value="9784802612241|01|">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_6" name="GOODS_INFO_SET_6" value="9784797372212|01|">
           <div class="select_section2">
                 <label for="omissionThumb6"><input id="omissionThumb6" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_6').checked;document.getElementById('GOODS_INFO_SET_6').checked=!t;">選択</label>
-              </div>
-            <!--商品写真-->
-          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784802612241" class="thumbnail_box heightLine-1">
-                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48026/4802612249.jpg" alt="ＰｙｔｈｏｎフレームワークＦｌａｓｋで学ぶＷｅｂアプリケーションのしくみとつくり" class="mb05" width="110"/>
-              </a>
-            <div class="select_section">
-                <label for="omission6"><input id="omission6" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_6').checked;document.getElementById('GOODS_INFO_SET_6').checked=!t;"><span>選択</span></label>
-              </div>
-            <!--Googleプレビュー-->
-              <a id="ISBN9784802612241" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_6','googleDetailWrapper_6')"/> </a>
-              <!--カテゴリ一覧-->
-          <div class="category">
-            <ul>
-              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
-              </ul>
-          </div>
-        </div>
-        <div class="listrightbloc">
-          <div class="product_category clearfix mb10">
-            <ul>
-              </ul>
-          </div>
-          <!--商品名-->
-          <h3 class="heightLine-2">
-            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784802612241">ＰｙｔｈｏｎフレームワークＦｌａｓｋで学ぶＷｅｂアプリケーションのしくみとつくり</a>
-              </h3>
-
-          <!--商品詳細-->
-          <div class="details ml10">
-            <p class="clearfix">
-              掌田 津耶乃【著】<br>
-              </p>
-            </div>
-          <!--価格-->
-          <div class="pricebox ml10">
-            <ul>
-              <li>価格 <span class="sale_price">&yen;3,520</span>（本体&yen;3,200）</li></ul>
-          </div>
-          <!--価格フェア画面専用-->
-          <!--在庫情報フェア画面用-->
-          <!--商品詳細2-->
-          <div class="details2 select_section1 ml10">
-            <ul class="mb05">
-              <li>
-                  ソシム（2019/08発売）</li>
-              <li>ポイント <span class="redhot">32pt</span></li>
-              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
-                  </ul>
-            </div>
-        </div>
-        <div class="jpo-modal">
-          <div id="jpoWrapper_6" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_6" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_6','jpoDetailWrapper_6');openListTryRead('jpoWrapper_6','9784802612241','6')">https://kinokuniya.tameshiyo.me/9784802612241</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_6','jpoDetailWrapper_6')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-
-        <div class="google-modal">
-          <div id="googleWrapper_6" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_6" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_6','googleDetailWrapper_6');openListTryRead('googleWrapper_6','9784802612241','6')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784802612241</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_6','googleDetailWrapper_6')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-        </div>
-    <div class="list_area clearfix pb10" >
-        <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_7" name="GOODS_INFO_SET_7" value="9784254128963|01|">
-          <div class="select_section2">
-                <label for="omissionThumb7"><input id="omissionThumb7" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_7').checked;document.getElementById('GOODS_INFO_SET_7').checked=!t;">選択</label>
-              </div>
-            <!--商品写真-->
-          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784254128963" class="thumbnail_box heightLine-1">
-                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/42541/4254128967.jpg" alt="Ｋｉｖｙプログラミング - Ｐｙｔｈｏｎで作るマルチタッチアプリ 実践Ｐｙｔｈｏｎライブラリー" class="mb05" width="110"/>
-              </a>
-            <div class="select_section">
-                <label for="omission7"><input id="omission7" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_7').checked;document.getElementById('GOODS_INFO_SET_7').checked=!t;"><span>選択</span></label>
-              </div>
-            <!--Googleプレビュー-->
-              <a id="ISBN9784254128963" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_7','googleDetailWrapper_7')"/> </a>
-              <!--カテゴリ一覧-->
-          <div class="category">
-            <ul>
-              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
-              </ul>
-          </div>
-        </div>
-        <div class="listrightbloc">
-          <div class="product_category clearfix mb10">
-            <ul>
-              </ul>
-          </div>
-          <!--商品名-->
-          <h3 class="heightLine-2">
-            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784254128963">Ｋｉｖｙプログラミング - Ｐｙｔｈｏｎで作るマルチタッチアプリ 実践Ｐｙｔｈｏｎライブラリー</a>
-              </h3>
-
-          <!--商品詳細-->
-          <div class="details ml10">
-            <p class="clearfix">
-              久保 幹雄【監修】/原口 和也【著】<br>
-              </p>
-            </div>
-          <!--価格-->
-          <div class="pricebox ml10">
-            <ul>
-              <li>価格 <span class="sale_price">&yen;3,520</span>（本体&yen;3,200）</li></ul>
-          </div>
-          <!--価格フェア画面専用-->
-          <!--在庫情報フェア画面用-->
-          <!--商品詳細2-->
-          <div class="details2 select_section1 ml10">
-            <ul class="mb05">
-              <li>
-                  朝倉書店（2018/06発売）</li>
-              <li>ポイント <span class="redhot">32pt</span></li>
-              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
-                  </ul>
-            </div>
-        </div>
-        <div class="jpo-modal">
-          <div id="jpoWrapper_7" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_7" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_7','jpoDetailWrapper_7');openListTryRead('jpoWrapper_7','9784254128963','7')">https://kinokuniya.tameshiyo.me/9784254128963</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_7','jpoDetailWrapper_7')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-
-        <div class="google-modal">
-          <div id="googleWrapper_7" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_7" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_7','googleDetailWrapper_7');openListTryRead('googleWrapper_7','9784254128963','7')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784254128963</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_7','googleDetailWrapper_7')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-        </div>
-    <div class="list_area clearfix pb10" >
-        <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_8" name="GOODS_INFO_SET_8" value="9784797372212|01|">
-          <div class="select_section2">
-                <label for="omissionThumb8"><input id="omissionThumb8" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_8').checked;document.getElementById('GOODS_INFO_SET_8').checked=!t;">選択</label>
               </div>
             <!--商品写真-->
           <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784797372212" class="thumbnail_box heightLine-1">
                 <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/47973/4797372214.jpg" alt="ｊＱｕｅｒｙ最高の教科書" class="mb05" width="110"/>
               </a>
             <div class="select_section">
-                <label for="omission8"><input id="omission8" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_8').checked;document.getElementById('GOODS_INFO_SET_8').checked=!t;"><span>選択</span></label>
+                <label for="omission6"><input id="omission6" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_6').checked;document.getElementById('GOODS_INFO_SET_6').checked=!t;"><span>選択</span></label>
               </div>
             <!--Googleプレビュー-->
-              <a id="ISBN9784797372212" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_8','googleDetailWrapper_8')"/> </a>
+              <a id="ISBN9784797372212" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_6','googleDetailWrapper_6')"/> </a>
               <!--カテゴリ一覧-->
           <div class="category">
             <ul>
@@ -1341,58 +1164,58 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
               <li>
                   ＳＢクリエイティブ（2013/12発売）</li>
               <li>ポイント <span class="redhot">25pt</span></li>
-              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
+              <li><span class="middle st green">提携先に在庫あり</span>（通常、5～7日程度で出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。</li>
                   </ul>
             </div>
         </div>
         <div class="jpo-modal">
-          <div id="jpoWrapper_8" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_8" class="modal-detail-wrapper" style="display: none;">
+          <div id="jpoWrapper_6" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_6" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_8','jpoDetailWrapper_8');openListTryRead('jpoWrapper_8','9784797372212','8')">https://kinokuniya.tameshiyo.me/9784797372212</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_6','jpoDetailWrapper_6');openListTryRead('jpoWrapper_6','9784797372212','6')">https://kinokuniya.tameshiyo.me/9784797372212</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_8','jpoDetailWrapper_8')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_6','jpoDetailWrapper_6')">✕ 閉じる</button>
             </div>
           </div>
         </div>
 
         <div class="google-modal">
-          <div id="googleWrapper_8" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_8" class="modal-detail-wrapper" style="display: none;">
+          <div id="googleWrapper_6" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_6" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_8','googleDetailWrapper_8');openListTryRead('googleWrapper_8','9784797372212','8')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784797372212</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_6','googleDetailWrapper_6');openListTryRead('googleWrapper_6','9784797372212','6')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784797372212</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_8','googleDetailWrapper_8')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_6','googleDetailWrapper_6')">✕ 閉じる</button>
             </div>
           </div>
         </div>
         </div>
     <div class="list_area clearfix pb10" >
         <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_9" name="GOODS_INFO_SET_9" value="9784295003854|01|">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_7" name="GOODS_INFO_SET_7" value="9784295003854|01|">
           <div class="select_section2">
-                <label for="omissionThumb9"><input id="omissionThumb9" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_9').checked;document.getElementById('GOODS_INFO_SET_9').checked=!t;">選択</label>
+                <label for="omissionThumb7"><input id="omissionThumb7" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_7').checked;document.getElementById('GOODS_INFO_SET_7').checked=!t;">選択</label>
               </div>
             <!--商品写真-->
           <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784295003854" class="thumbnail_box heightLine-1">
                 <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/42950/4295003859.jpg" alt="スラスラ読めるＪａｖａＳｃｒｉｐｔふりがなプログラミング" class="mb05" width="110"/>
               </a>
             <div class="select_section">
-                <label for="omission9"><input id="omission9" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_9').checked;document.getElementById('GOODS_INFO_SET_9').checked=!t;"><span>選択</span></label>
+                <label for="omission7"><input id="omission7" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_7').checked;document.getElementById('GOODS_INFO_SET_7').checked=!t;"><span>選択</span></label>
               </div>
-            <div id="jpo_tameshiyome_9" style="display: block;">
+            <div id="jpo_tameshiyome_7" style="display: block;">
 
-                <a style='background-position: left top; width: 115px; height: 23px; background-image: url("../images/parts/goods-list/jpo_tameshiyome_button1.png"); display: block; background-size: 115px;' onmouseover="this.style.backgroundPosition='left bottom';" onmouseout="this.style.backgroundPosition='left top';" onclick="dialogOpen('jpoWrapper_9','jpoDetailWrapper_9')" href="javascript:void(0)" class="mb05 mr10"></a>
+                <a style='background-position: left top; width: 115px; height: 23px; background-image: url("../images/parts/goods-list/jpo_tameshiyome_button1.png"); display: block; background-size: 115px;' onmouseover="this.style.backgroundPosition='left bottom';" onmouseout="this.style.backgroundPosition='left top';" onclick="dialogOpen('jpoWrapper_7','jpoDetailWrapper_7')" href="javascript:void(0)" class="mb05 mr10"></a>
 
                 </div>
 
@@ -1438,52 +1261,52 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             </div>
         </div>
         <div class="jpo-modal">
-          <div id="jpoWrapper_9" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_9" class="modal-detail-wrapper" style="display: none;">
+          <div id="jpoWrapper_7" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_7" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_9','jpoDetailWrapper_9');openListTryRead('jpoWrapper_9','9784295003854','9')">https://kinokuniya.tameshiyo.me/9784295003854</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_7','jpoDetailWrapper_7');openListTryRead('jpoWrapper_7','9784295003854','7')">https://kinokuniya.tameshiyo.me/9784295003854</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_9','jpoDetailWrapper_9')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_7','jpoDetailWrapper_7')">✕ 閉じる</button>
             </div>
           </div>
         </div>
 
         <div class="google-modal">
-          <div id="googleWrapper_9" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_9" class="modal-detail-wrapper" style="display: none;">
+          <div id="googleWrapper_7" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_7" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_9','googleDetailWrapper_9');openListTryRead('googleWrapper_9','9784295003854','9')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784295003854</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_7','googleDetailWrapper_7');openListTryRead('googleWrapper_7','9784295003854','7')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784295003854</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_9','googleDetailWrapper_9')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_7','googleDetailWrapper_7')">✕ 閉じる</button>
             </div>
           </div>
         </div>
         </div>
     <div class="list_area clearfix pb10" >
         <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_10" name="GOODS_INFO_SET_10" value="9784839969301|01|">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_8" name="GOODS_INFO_SET_8" value="9784839969301|01|">
           <div class="select_section2">
-                <label for="omissionThumb10"><input id="omissionThumb10" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_10').checked;document.getElementById('GOODS_INFO_SET_10').checked=!t;">選択</label>
+                <label for="omissionThumb8"><input id="omissionThumb8" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_8').checked;document.getElementById('GOODS_INFO_SET_8').checked=!t;">選択</label>
               </div>
             <!--商品写真-->
           <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784839969301" class="thumbnail_box heightLine-1">
                 <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48399/4839969302.jpg" alt="コンバージョンを上げるＷｅｂデザイン改善集" class="mb05" width="110"/>
               </a>
             <div class="select_section">
-                <label for="omission10"><input id="omission10" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_10').checked;document.getElementById('GOODS_INFO_SET_10').checked=!t;"><span>選択</span></label>
+                <label for="omission8"><input id="omission8" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_8').checked;document.getElementById('GOODS_INFO_SET_8').checked=!t;"><span>選択</span></label>
               </div>
             <!--Googleプレビュー-->
-              <a id="ISBN9784839969301" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_10','googleDetailWrapper_10')"/> </a>
+              <a id="ISBN9784839969301" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_8','googleDetailWrapper_8')"/> </a>
               <!--カテゴリ一覧-->
           <div class="category">
             <ul>
@@ -1526,52 +1349,140 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             </div>
         </div>
         <div class="jpo-modal">
-          <div id="jpoWrapper_10" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_10" class="modal-detail-wrapper" style="display: none;">
+          <div id="jpoWrapper_8" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_8" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_10','jpoDetailWrapper_10');openListTryRead('jpoWrapper_10','9784839969301','10')">https://kinokuniya.tameshiyo.me/9784839969301</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_8','jpoDetailWrapper_8');openListTryRead('jpoWrapper_8','9784839969301','8')">https://kinokuniya.tameshiyo.me/9784839969301</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_10','jpoDetailWrapper_10')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_8','jpoDetailWrapper_8')">✕ 閉じる</button>
             </div>
           </div>
         </div>
 
         <div class="google-modal">
-          <div id="googleWrapper_10" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_10" class="modal-detail-wrapper" style="display: none;">
+          <div id="googleWrapper_8" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_8" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_10','googleDetailWrapper_10');openListTryRead('googleWrapper_10','9784839969301','10')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784839969301</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_8','googleDetailWrapper_8');openListTryRead('googleWrapper_8','9784839969301','8')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784839969301</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_10','googleDetailWrapper_10')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_8','googleDetailWrapper_8')">✕ 閉じる</button>
             </div>
           </div>
         </div>
         </div>
     <div class="list_area clearfix pb10" >
         <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_11" name="GOODS_INFO_SET_11" value="9784873119380|01|">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_9" name="GOODS_INFO_SET_9" value="9784899775195|01|">
           <div class="select_section2">
-                <label for="omissionThumb11"><input id="omissionThumb11" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_11').checked;document.getElementById('GOODS_INFO_SET_11').checked=!t;">選択</label>
+                <label for="omissionThumb9"><input id="omissionThumb9" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_9').checked;document.getElementById('GOODS_INFO_SET_9').checked=!t;">選択</label>
+              </div>
+            <!--商品写真-->
+          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784899775195" class="thumbnail_box heightLine-1">
+                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48997/4899775199.jpg" alt="Ｇｏｏｇｌｅ　ＡｐｐＳｈｅｅｔではじめるノーコード開発入門" class="mb05" width="110"/>
+              </a>
+            <div class="select_section">
+                <label for="omission9"><input id="omission9" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_9').checked;document.getElementById('GOODS_INFO_SET_9').checked=!t;"><span>選択</span></label>
+              </div>
+            <!--Googleプレビュー-->
+              <a id="ISBN9784899775195" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_9','googleDetailWrapper_9')"/> </a>
+              <!--カテゴリ一覧-->
+          <div class="category">
+            <ul>
+              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
+              </ul>
+          </div>
+        </div>
+        <div class="listrightbloc">
+          <div class="product_category clearfix mb10">
+            <ul>
+              <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
+              </ul>
+          </div>
+          <!--商品名-->
+          <h3 class="heightLine-2">
+            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784899775195">Ｇｏｏｇｌｅ　ＡｐｐＳｈｅｅｔではじめるノーコード開発入門</a>
+              </h3>
+
+          <!--商品詳細-->
+          <div class="details ml10">
+            <p class="clearfix">
+              掌田 津耶乃【著】<br>
+              </p>
+            </div>
+          <!--価格-->
+          <div class="pricebox ml10">
+            <ul>
+              <li>価格 <span class="sale_price">&yen;2,750</span>（本体&yen;2,500）</li></ul>
+          </div>
+          <!--価格フェア画面専用-->
+          <!--在庫情報フェア画面用-->
+          <!--商品詳細2-->
+          <div class="details2 select_section1 ml10">
+            <ul class="mb05">
+              <li>
+                  ラトルズ（2021/06発売）</li>
+              <li>ポイント <span class="redhot">25pt</span></li>
+              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
+                  </ul>
+            </div>
+        </div>
+        <div class="jpo-modal">
+          <div id="jpoWrapper_9" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_9" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_9','jpoDetailWrapper_9');openListTryRead('jpoWrapper_9','9784899775195','9')">https://kinokuniya.tameshiyo.me/9784899775195</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_9','jpoDetailWrapper_9')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="google-modal">
+          <div id="googleWrapper_9" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_9" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_9','googleDetailWrapper_9');openListTryRead('googleWrapper_9','9784899775195','9')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784899775195</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_9','googleDetailWrapper_9')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+        </div>
+    <div class="list_area clearfix pb10" >
+        <div class="listphoto clearfix">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_10" name="GOODS_INFO_SET_10" value="9784873119380|01|">
+          <div class="select_section2">
+                <label for="omissionThumb10"><input id="omissionThumb10" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_10').checked;document.getElementById('GOODS_INFO_SET_10').checked=!t;">選択</label>
               </div>
             <!--商品写真-->
           <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784873119380" class="thumbnail_box heightLine-1">
                 <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48731/4873119383.jpg" alt="Ｒｅａｃｔハンズオンラーニング - Ｗｅｂアプリケーション開発のベストプラクティス （第２版）" class="mb05" width="110"/>
               </a>
             <div class="select_section">
-                <label for="omission11"><input id="omission11" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_11').checked;document.getElementById('GOODS_INFO_SET_11').checked=!t;"><span>選択</span></label>
+                <label for="omission10"><input id="omission10" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_10').checked;document.getElementById('GOODS_INFO_SET_10').checked=!t;"><span>選択</span></label>
               </div>
             <!--Googleプレビュー-->
-              <a id="ISBN9784873119380" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_11','googleDetailWrapper_11')"/> </a>
+              <a id="ISBN9784873119380" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_10','googleDetailWrapper_10')"/> </a>
               <!--カテゴリ一覧-->
           <div class="category">
             <ul>
@@ -1613,140 +1524,52 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             </div>
         </div>
         <div class="jpo-modal">
-          <div id="jpoWrapper_11" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_11" class="modal-detail-wrapper" style="display: none;">
+          <div id="jpoWrapper_10" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_10" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_11','jpoDetailWrapper_11');openListTryRead('jpoWrapper_11','9784873119380','11')">https://kinokuniya.tameshiyo.me/9784873119380</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_10','jpoDetailWrapper_10');openListTryRead('jpoWrapper_10','9784873119380','10')">https://kinokuniya.tameshiyo.me/9784873119380</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_11','jpoDetailWrapper_11')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_10','jpoDetailWrapper_10')">✕ 閉じる</button>
             </div>
           </div>
         </div>
 
         <div class="google-modal">
-          <div id="googleWrapper_11" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_11" class="modal-detail-wrapper" style="display: none;">
+          <div id="googleWrapper_10" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_10" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_11','googleDetailWrapper_11');openListTryRead('googleWrapper_11','9784873119380','11')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784873119380</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_10','googleDetailWrapper_10');openListTryRead('googleWrapper_10','9784873119380','10')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784873119380</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_11','googleDetailWrapper_11')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_10','googleDetailWrapper_10')">✕ 閉じる</button>
             </div>
           </div>
         </div>
         </div>
     <div class="list_area clearfix pb10" >
         <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_12" name="GOODS_INFO_SET_12" value="9784899775195|01|">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_11" name="GOODS_INFO_SET_11" value="9784798168500|01|">
           <div class="select_section2">
-                <label for="omissionThumb12"><input id="omissionThumb12" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_12').checked;document.getElementById('GOODS_INFO_SET_12').checked=!t;">選択</label>
-              </div>
-            <!--商品写真-->
-          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784899775195" class="thumbnail_box heightLine-1">
-                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48997/4899775199.jpg" alt="Ｇｏｏｇｌｅ　ＡｐｐＳｈｅｅｔではじめるノーコード開発入門" class="mb05" width="110"/>
-              </a>
-            <div class="select_section">
-                <label for="omission12"><input id="omission12" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_12').checked;document.getElementById('GOODS_INFO_SET_12').checked=!t;"><span>選択</span></label>
-              </div>
-            <!--Googleプレビュー-->
-              <a id="ISBN9784899775195" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_12','googleDetailWrapper_12')"/> </a>
-              <!--カテゴリ一覧-->
-          <div class="category">
-            <ul>
-              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
-              </ul>
-          </div>
-        </div>
-        <div class="listrightbloc">
-          <div class="product_category clearfix mb10">
-            <ul>
-              <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
-              </ul>
-          </div>
-          <!--商品名-->
-          <h3 class="heightLine-2">
-            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784899775195">Ｇｏｏｇｌｅ　ＡｐｐＳｈｅｅｔではじめるノーコード開発入門</a>
-              </h3>
-
-          <!--商品詳細-->
-          <div class="details ml10">
-            <p class="clearfix">
-              掌田 津耶乃【著】<br>
-              </p>
-            </div>
-          <!--価格-->
-          <div class="pricebox ml10">
-            <ul>
-              <li>価格 <span class="sale_price">&yen;2,750</span>（本体&yen;2,500）</li></ul>
-          </div>
-          <!--価格フェア画面専用-->
-          <!--在庫情報フェア画面用-->
-          <!--商品詳細2-->
-          <div class="details2 select_section1 ml10">
-            <ul class="mb05">
-              <li>
-                  ラトルズ（2021/06発売）</li>
-              <li>ポイント <span class="redhot">25pt</span></li>
-              <li><span class="middle st green">提携先に在庫あり</span>（通常、5～7日程度で出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。</li>
-                  </ul>
-            </div>
-        </div>
-        <div class="jpo-modal">
-          <div id="jpoWrapper_12" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_12" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_12','jpoDetailWrapper_12');openListTryRead('jpoWrapper_12','9784899775195','12')">https://kinokuniya.tameshiyo.me/9784899775195</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_12','jpoDetailWrapper_12')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-
-        <div class="google-modal">
-          <div id="googleWrapper_12" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_12" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_12','googleDetailWrapper_12');openListTryRead('googleWrapper_12','9784899775195','12')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784899775195</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_12','googleDetailWrapper_12')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-        </div>
-    <div class="list_area clearfix pb10" >
-        <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_13" name="GOODS_INFO_SET_13" value="9784798168500|01|">
-          <div class="select_section2">
-                <label for="omissionThumb13"><input id="omissionThumb13" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_13').checked;document.getElementById('GOODS_INFO_SET_13').checked=!t;">選択</label>
+                <label for="omissionThumb11"><input id="omissionThumb11" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_11').checked;document.getElementById('GOODS_INFO_SET_11').checked=!t;">選択</label>
               </div>
             <!--商品写真-->
           <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784798168500" class="thumbnail_box heightLine-1">
                 <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/47981/4798168505.jpg" alt="スラスラわかるＰＨＰ - Ｂｅｇｉｎｎｅｒ’ｓ　Ｂｅｓｔ　Ｇｕｉｄｅ　ｔｏ （第２版）" class="mb05" width="110"/>
               </a>
             <div class="select_section">
-                <label for="omission13"><input id="omission13" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_13').checked;document.getElementById('GOODS_INFO_SET_13').checked=!t;"><span>選択</span></label>
+                <label for="omission11"><input id="omission11" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_11').checked;document.getElementById('GOODS_INFO_SET_11').checked=!t;"><span>選択</span></label>
               </div>
             <!--Googleプレビュー-->
-              <a id="ISBN9784798168500" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_13','googleDetailWrapper_13')"/> </a>
+              <a id="ISBN9784798168500" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_11','googleDetailWrapper_11')"/> </a>
               <!--カテゴリ一覧-->
           <div class="category">
             <ul>
@@ -1758,6 +1581,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
           <div class="product_category clearfix mb10">
             <ul>
               <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
+              <li class="mr05"><img src="../images/parts/goods-list/cam.gif" alt="ポイントキャンペーン" /></li>
               </ul>
           </div>
           <!--商品名-->
@@ -1783,58 +1607,58 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             <ul class="mb05">
               <li>
                   翔泳社（2021/06発売）</li>
-              <li>ポイント <span class="redhot">23pt</span></li>
+              <li>ポイント <span class="redhot">115pt</span></li>
               <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
                   </ul>
             </div>
         </div>
         <div class="jpo-modal">
-          <div id="jpoWrapper_13" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_13" class="modal-detail-wrapper" style="display: none;">
+          <div id="jpoWrapper_11" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_11" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_13','jpoDetailWrapper_13');openListTryRead('jpoWrapper_13','9784798168500','13')">https://kinokuniya.tameshiyo.me/9784798168500</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_11','jpoDetailWrapper_11');openListTryRead('jpoWrapper_11','9784798168500','11')">https://kinokuniya.tameshiyo.me/9784798168500</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_13','jpoDetailWrapper_13')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_11','jpoDetailWrapper_11')">✕ 閉じる</button>
             </div>
           </div>
         </div>
 
         <div class="google-modal">
-          <div id="googleWrapper_13" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_13" class="modal-detail-wrapper" style="display: none;">
+          <div id="googleWrapper_11" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_11" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_13','googleDetailWrapper_13');openListTryRead('googleWrapper_13','9784798168500','13')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784798168500</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_11','googleDetailWrapper_11');openListTryRead('googleWrapper_11','9784798168500','11')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784798168500</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_13','googleDetailWrapper_13')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_11','googleDetailWrapper_11')">✕ 閉じる</button>
             </div>
           </div>
         </div>
         </div>
     <div class="list_area clearfix pb10" >
         <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_14" name="GOODS_INFO_SET_14" value="9784897978857|01|">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_12" name="GOODS_INFO_SET_12" value="9784873119236|01|">
           <div class="select_section2">
-                <label for="omissionThumb14"><input id="omissionThumb14" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_14').checked;document.getElementById('GOODS_INFO_SET_14').checked=!t;">選択</label>
+                <label for="omissionThumb12"><input id="omissionThumb12" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_12').checked;document.getElementById('GOODS_INFO_SET_12').checked=!t;">選択</label>
               </div>
             <!--商品写真-->
-          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784897978857" class="thumbnail_box heightLine-1">
-                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48979/4897978858.jpg" alt="いきなりはじめるＰＨＰ - ワクワク・ドキドキの入門教室" class="mb05" width="110"/>
+          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784873119236" class="thumbnail_box heightLine-1">
+                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48731/4873119235.jpg" alt="ハンズオンＮｏｄｅ．ｊｓ" class="mb05" width="110"/>
               </a>
             <div class="select_section">
-                <label for="omission14"><input id="omission14" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_14').checked;document.getElementById('GOODS_INFO_SET_14').checked=!t;"><span>選択</span></label>
+                <label for="omission12"><input id="omission12" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_12').checked;document.getElementById('GOODS_INFO_SET_12').checked=!t;"><span>選択</span></label>
               </div>
             <!--Googleプレビュー-->
-              <a id="ISBN9784897978857" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_14','googleDetailWrapper_14')"/> </a>
+              <a id="ISBN9784873119236" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_12','googleDetailWrapper_12')"/> </a>
               <!--カテゴリ一覧-->
           <div class="category">
             <ul>
@@ -1849,19 +1673,19 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
           </div>
           <!--商品名-->
           <h3 class="heightLine-2">
-            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784897978857">いきなりはじめるＰＨＰ - ワクワク・ドキドキの入門教室</a>
+            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784873119236">ハンズオンＮｏｄｅ．ｊｓ</a>
               </h3>
 
           <!--商品詳細-->
           <div class="details ml10">
             <p class="clearfix">
-              谷藤 賢一【著】<br>
+              今村 謙士【著】<br>
               </p>
             </div>
           <!--価格-->
           <div class="pricebox ml10">
             <ul>
-              <li>価格 <span class="sale_price">&yen;1,980</span>（本体&yen;1,800）</li></ul>
+              <li>価格 <span class="sale_price">&yen;4,070</span>（本体&yen;3,700）</li></ul>
           </div>
           <!--価格フェア画面専用-->
           <!--在庫情報フェア画面用-->
@@ -1869,59 +1693,59 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
           <div class="details2 select_section1 ml10">
             <ul class="mb05">
               <li>
-                  リックテレコム（2011/12発売）</li>
-              <li>ポイント <span class="redhot">18pt</span></li>
+                  オライリー・ジャパン（2020/11発売）</li>
+              <li>ポイント <span class="redhot">37pt</span></li>
               <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
                   </ul>
             </div>
         </div>
         <div class="jpo-modal">
-          <div id="jpoWrapper_14" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_14" class="modal-detail-wrapper" style="display: none;">
+          <div id="jpoWrapper_12" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_12" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_14','jpoDetailWrapper_14');openListTryRead('jpoWrapper_14','9784897978857','14')">https://kinokuniya.tameshiyo.me/9784897978857</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_12','jpoDetailWrapper_12');openListTryRead('jpoWrapper_12','9784873119236','12')">https://kinokuniya.tameshiyo.me/9784873119236</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_14','jpoDetailWrapper_14')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_12','jpoDetailWrapper_12')">✕ 閉じる</button>
             </div>
           </div>
         </div>
 
         <div class="google-modal">
-          <div id="googleWrapper_14" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_14" class="modal-detail-wrapper" style="display: none;">
+          <div id="googleWrapper_12" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_12" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_14','googleDetailWrapper_14');openListTryRead('googleWrapper_14','9784897978857','14')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784897978857</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_12','googleDetailWrapper_12');openListTryRead('googleWrapper_12','9784873119236','12')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784873119236</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
               </div>
             </div>
             <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_14','googleDetailWrapper_14')">✕ 閉じる</button>
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_12','googleDetailWrapper_12')">✕ 閉じる</button>
             </div>
           </div>
         </div>
         </div>
     <div class="list_area clearfix pb10" >
         <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_15" name="GOODS_INFO_SET_15" value="9784798125831|01|">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_13" name="GOODS_INFO_SET_13" value="9784798125831|01|">
           <div class="select_section2">
-                <label for="omissionThumb15"><input id="omissionThumb15" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_15').checked;document.getElementById('GOODS_INFO_SET_15').checked=!t;">選択</label>
+                <label for="omissionThumb13"><input id="omissionThumb13" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_13').checked;document.getElementById('GOODS_INFO_SET_13').checked=!t;">選択</label>
               </div>
             <!--商品写真-->
           <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784798125831" class="thumbnail_box heightLine-1">
                 <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/47981/4798125830.jpg" alt="スラスラわかるＪａｖａＳｃｒｉｐｔ - Ｂｅｇｉｎｎｅｒ’ｓ　Ｂｅｓｔ　Ｇｕｉｄｅ　ｔｏ" class="mb05" width="110"/>
               </a>
             <div class="select_section">
-                <label for="omission15"><input id="omission15" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_15').checked;document.getElementById('GOODS_INFO_SET_15').checked=!t;"><span>選択</span></label>
+                <label for="omission13"><input id="omission13" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_13').checked;document.getElementById('GOODS_INFO_SET_13').checked=!t;"><span>選択</span></label>
               </div>
             <!--Googleプレビュー-->
-              <a id="ISBN9784798125831" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_15','googleDetailWrapper_15')"/> </a>
+              <a id="ISBN9784798125831" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_13','googleDetailWrapper_13')"/> </a>
               <!--カテゴリ一覧-->
           <div class="category">
             <ul>
@@ -1933,6 +1757,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
           <div class="product_category clearfix mb10">
             <ul>
               <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
+              <li class="mr05"><img src="../images/parts/goods-list/cam.gif" alt="ポイントキャンペーン" /></li>
               </ul>
           </div>
           <!--商品名-->
@@ -1958,8 +1783,188 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             <ul class="mb05">
               <li>
                   翔泳社（2013/03発売）</li>
-              <li>ポイント <span class="redhot">23pt</span></li>
+              <li>ポイント <span class="redhot">115pt</span></li>
               <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
+                  </ul>
+            </div>
+        </div>
+        <div class="jpo-modal">
+          <div id="jpoWrapper_13" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_13" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_13','jpoDetailWrapper_13');openListTryRead('jpoWrapper_13','9784798125831','13')">https://kinokuniya.tameshiyo.me/9784798125831</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_13','jpoDetailWrapper_13')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="google-modal">
+          <div id="googleWrapper_13" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_13" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_13','googleDetailWrapper_13');openListTryRead('googleWrapper_13','9784798125831','13')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784798125831</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_13','googleDetailWrapper_13')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+        </div>
+    <div class="list_area clearfix pb10" >
+        <div class="listphoto clearfix">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_14" name="GOODS_INFO_SET_14" value="9784295202448|01|">
+          <div class="select_section2">
+                <label for="omissionThumb14"><input id="omissionThumb14" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_14').checked;document.getElementById('GOODS_INFO_SET_14').checked=!t;">選択</label>
+              </div>
+            <!--商品写真-->
+          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784295202448" class="thumbnail_box heightLine-1">
+                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/42952/4295202444.jpg" alt="デザインのネタ帳　コピペで使える動くＷｅｂデザインパーツ" class="mb05" width="110"/>
+              </a>
+            <div class="select_section">
+                <label for="omission14"><input id="omission14" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_14').checked;document.getElementById('GOODS_INFO_SET_14').checked=!t;"><span>選択</span></label>
+              </div>
+            <div id="jpo_tameshiyome_14" style="display: block;">
+
+                <a style='background-position: left top; width: 115px; height: 23px; background-image: url("../images/parts/goods-list/jpo_tameshiyome_button1.png"); display: block; background-size: 115px;' onmouseover="this.style.backgroundPosition='left bottom';" onmouseout="this.style.backgroundPosition='left top';" onclick="dialogOpen('jpoWrapper_14','jpoDetailWrapper_14')" href="javascript:void(0)" class="mb05 mr10"></a>
+
+                </div>
+
+              <!--カテゴリ一覧-->
+          <div class="category">
+            <ul>
+              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
+              </ul>
+          </div>
+        </div>
+        <div class="listrightbloc">
+          <div class="product_category clearfix mb10">
+            <ul>
+              <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
+              </ul>
+          </div>
+          <!--商品名-->
+          <h3 class="heightLine-2">
+            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784295202448">デザインのネタ帳　コピペで使える動くＷｅｂデザインパーツ</a>
+              </h3>
+
+          <!--商品詳細-->
+          <div class="details ml10">
+            <p class="clearfix">
+              矢野 みち子/五十嵐 小由利/伊藤 麻奈美/棧敷 友香子/綿織 幸知【共著】<br>
+              </p>
+            </div>
+          <!--価格-->
+          <div class="pricebox ml10">
+            <ul>
+              <li>価格 <span class="sale_price">&yen;3,080</span>（本体&yen;2,800）</li></ul>
+          </div>
+          <!--価格フェア画面専用-->
+          <!--在庫情報フェア画面用-->
+          <!--商品詳細2-->
+          <div class="details2 select_section1 ml10">
+            <ul class="mb05">
+              <li>
+                  エムディエヌコーポレーション（2022/03発売）</li>
+              <li>ポイント <span class="redhot">28pt</span></li>
+              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
+                  </ul>
+            </div>
+        </div>
+        <div class="jpo-modal">
+          <div id="jpoWrapper_14" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_14" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_14','jpoDetailWrapper_14');openListTryRead('jpoWrapper_14','9784295202448','14')">https://kinokuniya.tameshiyo.me/9784295202448</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_14','jpoDetailWrapper_14')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="google-modal">
+          <div id="googleWrapper_14" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_14" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_14','googleDetailWrapper_14');openListTryRead('googleWrapper_14','9784295202448','14')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784295202448</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_14','googleDetailWrapper_14')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+        </div>
+    <div class="list_area clearfix pb10" >
+        <div class="listphoto clearfix">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_15" name="GOODS_INFO_SET_15" value="9784863543720|01|">
+          <div class="select_section2">
+                <label for="omissionThumb15"><input id="omissionThumb15" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_15').checked;document.getElementById('GOODS_INFO_SET_15').checked=!t;">選択</label>
+              </div>
+            <!--商品写真-->
+          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784863543720" class="thumbnail_box heightLine-1">
+                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48635/4863543727.jpg" alt="詳解Ｇｏ言語Ｗｅｂアプリケーション開発" class="mb05" width="110"/>
+              </a>
+            <div class="select_section">
+                <label for="omission15"><input id="omission15" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_15').checked;document.getElementById('GOODS_INFO_SET_15').checked=!t;"><span>選択</span></label>
+              </div>
+            <!--Googleプレビュー-->
+              <a id="ISBN9784863543720" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_15','googleDetailWrapper_15')"/> </a>
+              <!--カテゴリ一覧-->
+          <div class="category">
+            <ul>
+              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
+              </ul>
+          </div>
+        </div>
+        <div class="listrightbloc">
+          <div class="product_category clearfix mb10">
+            <ul>
+              <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
+              </ul>
+          </div>
+          <!--商品名-->
+          <h3 class="heightLine-2">
+            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784863543720">詳解Ｇｏ言語Ｗｅｂアプリケーション開発</a>
+              </h3>
+
+          <!--商品詳細-->
+          <div class="details ml10">
+            <p class="clearfix">
+              清水 陽一郎【著】<br>
+              </p>
+            </div>
+          <!--価格-->
+          <div class="pricebox ml10">
+            <ul>
+              <li>価格 <span class="sale_price">&yen;3,003</span>（本体&yen;2,730）</li></ul>
+          </div>
+          <!--価格フェア画面専用-->
+          <!--在庫情報フェア画面用-->
+          <!--商品詳細2-->
+          <div class="details2 select_section1 ml10">
+            <ul class="mb05">
+              <li>
+                  シーアンドアール研究所（2022/08発売）</li>
+              <li>ポイント <span class="redhot">27pt</span></li>
+              <li><span class="middle st green">提携先に在庫あり</span>（通常、5～7日程度で出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。</li>
                   </ul>
             </div>
         </div>
@@ -1969,7 +1974,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_15','jpoDetailWrapper_15');openListTryRead('jpoWrapper_15','9784798125831','15')">https://kinokuniya.tameshiyo.me/9784798125831</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_15','jpoDetailWrapper_15');openListTryRead('jpoWrapper_15','9784863543720','15')">https://kinokuniya.tameshiyo.me/9784863543720</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
               </div>
             </div>
@@ -1985,7 +1990,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_15','googleDetailWrapper_15');openListTryRead('googleWrapper_15','9784798125831','15')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784798125831</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_15','googleDetailWrapper_15');openListTryRead('googleWrapper_15','9784863543720','15')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784863543720</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
               </div>
             </div>
@@ -2084,281 +2089,19 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
         </div>
     <div class="list_area clearfix pb10" >
         <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_17" name="GOODS_INFO_SET_17" value="9784295007678|01|">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_17" name="GOODS_INFO_SET_17" value="9784863543409|01|">
           <div class="select_section2">
                 <label for="omissionThumb17"><input id="omissionThumb17" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_17').checked;document.getElementById('GOODS_INFO_SET_17').checked=!t;">選択</label>
-              </div>
-            <!--商品写真-->
-          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784295007678" class="thumbnail_box heightLine-1">
-                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/42950/4295007676.jpg" alt="スラスラ読めるＰＨＰふりがなプログラミング" class="mb05" width="110"/>
-              </a>
-            <div class="select_section">
-                <label for="omission17"><input id="omission17" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_17').checked;document.getElementById('GOODS_INFO_SET_17').checked=!t;"><span>選択</span></label>
-              </div>
-            <!--Googleプレビュー-->
-              <a id="ISBN9784295007678" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_17','googleDetailWrapper_17')"/> </a>
-              <!--カテゴリ一覧-->
-          <div class="category">
-            <ul>
-              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
-              </ul>
-          </div>
-        </div>
-        <div class="listrightbloc">
-          <div class="product_category clearfix mb10">
-            <ul>
-              <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
-              </ul>
-          </div>
-          <!--商品名-->
-          <h3 class="heightLine-2">
-            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784295007678">スラスラ読めるＰＨＰふりがなプログラミング</a>
-              </h3>
-
-          <!--商品詳細-->
-          <div class="details ml10">
-            <p class="clearfix">
-              ピクシブ【監修】/リブロワークス【著】<br>
-              </p>
-            </div>
-          <!--価格-->
-          <div class="pricebox ml10">
-            <ul>
-              <li>価格 <span class="sale_price">&yen;2,200</span>（本体&yen;2,000）</li></ul>
-          </div>
-          <!--価格フェア画面専用-->
-          <!--在庫情報フェア画面用-->
-          <!--商品詳細2-->
-          <div class="details2 select_section1 ml10">
-            <ul class="mb05">
-              <li>
-                  インプレス（2019/11発売）</li>
-              <li>ポイント <span class="redhot">20pt</span></li>
-              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
-                  </ul>
-            </div>
-        </div>
-        <div class="jpo-modal">
-          <div id="jpoWrapper_17" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_17" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_17','jpoDetailWrapper_17');openListTryRead('jpoWrapper_17','9784295007678','17')">https://kinokuniya.tameshiyo.me/9784295007678</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_17','jpoDetailWrapper_17')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-
-        <div class="google-modal">
-          <div id="googleWrapper_17" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_17" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_17','googleDetailWrapper_17');openListTryRead('googleWrapper_17','9784295007678','17')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784295007678</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_17','googleDetailWrapper_17')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-        </div>
-    <div class="list_area clearfix pb10" >
-        <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_18" name="GOODS_INFO_SET_18" value="9784877834609|01|">
-          <div class="select_section2">
-                <label for="omissionThumb18"><input id="omissionThumb18" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_18').checked;document.getElementById('GOODS_INFO_SET_18').checked=!t;">選択</label>
-              </div>
-            <!--商品写真-->
-          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784877834609" class="thumbnail_box heightLine-1">
-                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48778/4877834605.jpg" alt="実践ＯｐｅｎＣＶ４　ｆｏｒ　Ｐｙｔｈｏｎ - 画像映像情報処理と機械学習" class="mb05" width="110"/>
-              </a>
-            <div class="select_section">
-                <label for="omission18"><input id="omission18" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_18').checked;document.getElementById('GOODS_INFO_SET_18').checked=!t;"><span>選択</span></label>
-              </div>
-            <!--Googleプレビュー-->
-              <a id="ISBN9784877834609" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_18','googleDetailWrapper_18')"/> </a>
-              <!--カテゴリ一覧-->
-          <div class="category">
-            <ul>
-              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
-              </ul>
-          </div>
-        </div>
-        <div class="listrightbloc">
-          <div class="product_category clearfix mb10">
-            <ul>
-              </ul>
-          </div>
-          <!--商品名-->
-          <h3 class="heightLine-2">
-            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784877834609">実践ＯｐｅｎＣＶ４　ｆｏｒ　Ｐｙｔｈｏｎ - 画像映像情報処理と機械学習</a>
-              </h3>
-
-          <!--商品詳細-->
-          <div class="details ml10">
-            <p class="clearfix">
-              永田雅人/豊沢聡<br>
-              </p>
-            </div>
-          <!--価格-->
-          <div class="pricebox ml10">
-            <ul>
-              <li>価格 <span class="sale_price">&yen;4,620</span>（本体&yen;4,200）</li></ul>
-          </div>
-          <!--価格フェア画面専用-->
-          <!--在庫情報フェア画面用-->
-          <!--商品詳細2-->
-          <div class="details2 select_section1 ml10">
-            <ul class="mb05">
-              <li>
-                  カットシステム（2021/01発売）</li>
-              <li>ポイント <span class="redhot">42pt</span></li>
-              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
-                  </ul>
-            </div>
-        </div>
-        <div class="jpo-modal">
-          <div id="jpoWrapper_18" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_18" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_18','jpoDetailWrapper_18');openListTryRead('jpoWrapper_18','9784877834609','18')">https://kinokuniya.tameshiyo.me/9784877834609</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_18','jpoDetailWrapper_18')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-
-        <div class="google-modal">
-          <div id="googleWrapper_18" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_18" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_18','googleDetailWrapper_18');openListTryRead('googleWrapper_18','9784877834609','18')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784877834609</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_18','googleDetailWrapper_18')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-        </div>
-    <div class="list_area clearfix pb10" >
-        <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_19" name="GOODS_INFO_SET_19" value="9784774144375|01|">
-          <div class="select_section2">
-                <label for="omissionThumb19"><input id="omissionThumb19" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_19').checked;document.getElementById('GOODS_INFO_SET_19').checked=!t;">選択</label>
-              </div>
-            <!--商品写真-->
-          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784774144375" class="thumbnail_box heightLine-1">
-                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/47741/4774144371.jpg" alt="パーフェクトＰＨＰ Ｐｅｒｆｅｃｔ　ｓｅｒｉｅｓ" class="mb05" width="110"/>
-              </a>
-            <div class="select_section">
-                <label for="omission19"><input id="omission19" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_19').checked;document.getElementById('GOODS_INFO_SET_19').checked=!t;"><span>選択</span></label>
-              </div>
-            <!--Googleプレビュー-->
-              <a id="ISBN9784774144375" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_19','googleDetailWrapper_19')"/> </a>
-              <!--カテゴリ一覧-->
-          <div class="category">
-            <ul>
-              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
-              </ul>
-          </div>
-        </div>
-        <div class="listrightbloc">
-          <div class="product_category clearfix mb10">
-            <ul>
-              </ul>
-          </div>
-          <!--商品名-->
-          <h3 class="heightLine-2">
-            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784774144375">パーフェクトＰＨＰ Ｐｅｒｆｅｃｔ　ｓｅｒｉｅｓ</a>
-              </h3>
-
-          <!--商品詳細-->
-          <div class="details ml10">
-            <p class="clearfix">
-              小川 雄大/柄沢 聡太郎/橋口 誠【著】<br>
-              </p>
-            </div>
-          <!--価格-->
-          <div class="pricebox ml10">
-            <ul>
-              <li>価格 <span class="sale_price">&yen;3,960</span>（本体&yen;3,600）</li></ul>
-          </div>
-          <!--価格フェア画面専用-->
-          <!--在庫情報フェア画面用-->
-          <!--商品詳細2-->
-          <div class="details2 select_section1 ml10">
-            <ul class="mb05">
-              <li>
-                  技術評論社（2010/12発売）</li>
-              <li>ポイント <span class="redhot">36pt</span></li>
-              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
-                  </ul>
-            </div>
-        </div>
-        <div class="jpo-modal">
-          <div id="jpoWrapper_19" class="modal-wrapper" style="display: none;"></div>
-          <div id="jpoDetailWrapper_19" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_19','jpoDetailWrapper_19');openListTryRead('jpoWrapper_19','9784774144375','19')">https://kinokuniya.tameshiyo.me/9784774144375</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_19','jpoDetailWrapper_19')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-
-        <div class="google-modal">
-          <div id="googleWrapper_19" class="modal-wrapper" style="display: none;"></div>
-          <div id="googleDetailWrapper_19" class="modal-detail-wrapper" style="display: none;">
-            <div class="modal-detail">
-              <div class="modal-detail-row">
-                <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_19','googleDetailWrapper_19');openListTryRead('googleWrapper_19','9784774144375','19')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784774144375</a>
-                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
-              </div>
-            </div>
-            <div class="modal-detail-button">
-              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_19','googleDetailWrapper_19')">✕ 閉じる</button>
-            </div>
-          </div>
-        </div>
-        </div>
-    <div class="list_area clearfix pb10" >
-        <div class="listphoto clearfix">
-          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_20" name="GOODS_INFO_SET_20" value="9784863543409|01|">
-          <div class="select_section2">
-                <label for="omissionThumb20"><input id="omissionThumb20" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_20').checked;document.getElementById('GOODS_INFO_SET_20').checked=!t;">選択</label>
               </div>
             <!--商品写真-->
           <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784863543409" class="thumbnail_box heightLine-1">
                 <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/48635/4863543409.jpg" alt="基礎から学ぶノーコード開発" class="mb05" width="110"/>
               </a>
             <div class="select_section">
-                <label for="omission20"><input id="omission20" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_20').checked;document.getElementById('GOODS_INFO_SET_20').checked=!t;"><span>選択</span></label>
+                <label for="omission17"><input id="omission17" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_17').checked;document.getElementById('GOODS_INFO_SET_17').checked=!t;"><span>選択</span></label>
               </div>
             <!--Googleプレビュー-->
-              <a id="ISBN9784863543409" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_20','googleDetailWrapper_20')"/> </a>
+              <a id="ISBN9784863543409" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_17','googleDetailWrapper_17')"/> </a>
               <!--カテゴリ一覧-->
           <div class="category">
             <ul>
@@ -2401,12 +2144,276 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             </div>
         </div>
         <div class="jpo-modal">
+          <div id="jpoWrapper_17" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_17" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_17','jpoDetailWrapper_17');openListTryRead('jpoWrapper_17','9784863543409','17')">https://kinokuniya.tameshiyo.me/9784863543409</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_17','jpoDetailWrapper_17')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="google-modal">
+          <div id="googleWrapper_17" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_17" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_17','googleDetailWrapper_17');openListTryRead('googleWrapper_17','9784863543409','17')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784863543409</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_17','googleDetailWrapper_17')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+        </div>
+    <div class="list_area clearfix pb10" >
+        <div class="listphoto clearfix">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_18" name="GOODS_INFO_SET_18" value="9784774144375|01|">
+          <div class="select_section2">
+                <label for="omissionThumb18"><input id="omissionThumb18" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_18').checked;document.getElementById('GOODS_INFO_SET_18').checked=!t;">選択</label>
+              </div>
+            <!--商品写真-->
+          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784774144375" class="thumbnail_box heightLine-1">
+                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/47741/4774144371.jpg" alt="パーフェクトＰＨＰ Ｐｅｒｆｅｃｔ　ｓｅｒｉｅｓ" class="mb05" width="110"/>
+              </a>
+            <div class="select_section">
+                <label for="omission18"><input id="omission18" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_18').checked;document.getElementById('GOODS_INFO_SET_18').checked=!t;"><span>選択</span></label>
+              </div>
+            <!--Googleプレビュー-->
+              <a id="ISBN9784774144375" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_18','googleDetailWrapper_18')"/> </a>
+              <!--カテゴリ一覧-->
+          <div class="category">
+            <ul>
+              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
+              </ul>
+          </div>
+        </div>
+        <div class="listrightbloc">
+          <div class="product_category clearfix mb10">
+            <ul>
+              </ul>
+          </div>
+          <!--商品名-->
+          <h3 class="heightLine-2">
+            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784774144375">パーフェクトＰＨＰ Ｐｅｒｆｅｃｔ　ｓｅｒｉｅｓ</a>
+              </h3>
+
+          <!--商品詳細-->
+          <div class="details ml10">
+            <p class="clearfix">
+              小川 雄大/柄沢 聡太郎/橋口 誠【著】<br>
+              </p>
+            </div>
+          <!--価格-->
+          <div class="pricebox ml10">
+            <ul>
+              <li>価格 <span class="sale_price">&yen;3,960</span>（本体&yen;3,600）</li></ul>
+          </div>
+          <!--価格フェア画面専用-->
+          <!--在庫情報フェア画面用-->
+          <!--商品詳細2-->
+          <div class="details2 select_section1 ml10">
+            <ul class="mb05">
+              <li>
+                  技術評論社（2010/12発売）</li>
+              <li>ポイント <span class="redhot">36pt</span></li>
+              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
+                  </ul>
+            </div>
+        </div>
+        <div class="jpo-modal">
+          <div id="jpoWrapper_18" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_18" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_18','jpoDetailWrapper_18');openListTryRead('jpoWrapper_18','9784774144375','18')">https://kinokuniya.tameshiyo.me/9784774144375</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_18','jpoDetailWrapper_18')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="google-modal">
+          <div id="googleWrapper_18" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_18" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_18','googleDetailWrapper_18');openListTryRead('googleWrapper_18','9784774144375','18')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784774144375</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_18','googleDetailWrapper_18')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+        </div>
+    <div class="list_area clearfix pb10" >
+        <div class="listphoto clearfix">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_19" name="GOODS_INFO_SET_19" value="9784295007678|01|">
+          <div class="select_section2">
+                <label for="omissionThumb19"><input id="omissionThumb19" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_19').checked;document.getElementById('GOODS_INFO_SET_19').checked=!t;">選択</label>
+              </div>
+            <!--商品写真-->
+          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784295007678" class="thumbnail_box heightLine-1">
+                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/42950/4295007676.jpg" alt="スラスラ読めるＰＨＰふりがなプログラミング" class="mb05" width="110"/>
+              </a>
+            <div class="select_section">
+                <label for="omission19"><input id="omission19" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_19').checked;document.getElementById('GOODS_INFO_SET_19').checked=!t;"><span>選択</span></label>
+              </div>
+            <!--Googleプレビュー-->
+              <a id="ISBN9784295007678" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_19','googleDetailWrapper_19')"/> </a>
+              <!--カテゴリ一覧-->
+          <div class="category">
+            <ul>
+              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
+              </ul>
+          </div>
+        </div>
+        <div class="listrightbloc">
+          <div class="product_category clearfix mb10">
+            <ul>
+              <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
+              </ul>
+          </div>
+          <!--商品名-->
+          <h3 class="heightLine-2">
+            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784295007678">スラスラ読めるＰＨＰふりがなプログラミング</a>
+              </h3>
+
+          <!--商品詳細-->
+          <div class="details ml10">
+            <p class="clearfix">
+              ピクシブ【監修】/リブロワークス【著】<br>
+              </p>
+            </div>
+          <!--価格-->
+          <div class="pricebox ml10">
+            <ul>
+              <li>価格 <span class="sale_price">&yen;2,200</span>（本体&yen;2,000）</li></ul>
+          </div>
+          <!--価格フェア画面専用-->
+          <!--在庫情報フェア画面用-->
+          <!--商品詳細2-->
+          <div class="details2 select_section1 ml10">
+            <ul class="mb05">
+              <li>
+                  インプレス（2019/11発売）</li>
+              <li>ポイント <span class="redhot">20pt</span></li>
+              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
+                  </ul>
+            </div>
+        </div>
+        <div class="jpo-modal">
+          <div id="jpoWrapper_19" class="modal-wrapper" style="display: none;"></div>
+          <div id="jpoDetailWrapper_19" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_19','jpoDetailWrapper_19');openListTryRead('jpoWrapper_19','9784295007678','19')">https://kinokuniya.tameshiyo.me/9784295007678</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('jpoWrapper_19','jpoDetailWrapper_19')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="google-modal">
+          <div id="googleWrapper_19" class="modal-wrapper" style="display: none;"></div>
+          <div id="googleDetailWrapper_19" class="modal-detail-wrapper" style="display: none;">
+            <div class="modal-detail">
+              <div class="modal-detail-row">
+                <p class="content-text">
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_19','googleDetailWrapper_19');openListTryRead('googleWrapper_19','9784295007678','19')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784295007678</a>
+                <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
+              </div>
+            </div>
+            <div class="modal-detail-button">
+              <button type="button" class="modal-detail-button-close" onclick="dialogClose('googleWrapper_19','googleDetailWrapper_19')">✕ 閉じる</button>
+            </div>
+          </div>
+        </div>
+        </div>
+    <div class="list_area clearfix pb10" >
+        <div class="listphoto clearfix">
+          <input type="checkbox" style="display: none;" id="GOODS_INFO_SET_20" name="GOODS_INFO_SET_20" value="9784798151649|01|">
+          <div class="select_section2">
+                <label for="omissionThumb20"><input id="omissionThumb20" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_20').checked;document.getElementById('GOODS_INFO_SET_20').checked=!t;">選択</label>
+              </div>
+            <!--商品写真-->
+          <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784798151649" class="thumbnail_box heightLine-1">
+                <img onerror="alterImage(this, '../images/parts/goods-list/no-phooto.jpg')" src="../images/goods/ar2/web/imgdata2/47981/4798151645.jpg" alt="ＰＨＰの絵本 - Ｗｅｂアプリ作りが楽しくなる新しい９つの扉 （第２版）" class="mb05" width="110"/>
+              </a>
+            <div class="select_section">
+                <label for="omission20"><input id="omission20" type="checkbox" class="mb10" onclick="var t=document.getElementById('GOODS_INFO_SET_20').checked;document.getElementById('GOODS_INFO_SET_20').checked=!t;"><span>選択</span></label>
+              </div>
+            <!--Googleプレビュー-->
+              <a id="ISBN9784798151649" href="" class="mb10 google_bt google_bt_none"> <img src="../images/parts/goods-list/gbs_preview_button1.gif" alt="" onclick="dialogOpen('googleWrapper_20','googleDetailWrapper_20')"/> </a>
+              <!--カテゴリ一覧-->
+          <div class="category">
+            <ul>
+              <li><img src="../images/parts/goods-list/j_books.gif" alt="和書" /></li>
+              </ul>
+          </div>
+        </div>
+        <div class="listrightbloc">
+          <div class="product_category clearfix mb10">
+            <ul>
+              <li class="mr05"><img src="../images/parts/goods-list/e_ari.gif" alt="電子版あり" /></li>
+              <li class="mr05"><img src="../images/parts/goods-list/cam.gif" alt="ポイントキャンペーン" /></li>
+              </ul>
+          </div>
+          <!--商品名-->
+          <h3 class="heightLine-2">
+            <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784798151649">ＰＨＰの絵本 - Ｗｅｂアプリ作りが楽しくなる新しい９つの扉 （第２版）</a>
+              </h3>
+
+          <!--商品詳細-->
+          <div class="details ml10">
+            <p class="clearfix">
+              アンク【著】<br>
+              </p>
+            </div>
+          <!--価格-->
+          <div class="pricebox ml10">
+            <ul>
+              <li>価格 <span class="sale_price">&yen;1,848</span>（本体&yen;1,680）</li></ul>
+          </div>
+          <!--価格フェア画面専用-->
+          <!--在庫情報フェア画面用-->
+          <!--商品詳細2-->
+          <div class="details2 select_section1 ml10">
+            <ul class="mb05">
+              <li>
+                  翔泳社（2017/04発売）</li>
+              <li>ポイント <span class="redhot">80pt</span></li>
+              <li><span class="middle st green">ウェブストア在庫あり</span>（通常、ご注文翌日～2日後に出荷）<br/>※納期遅延や在庫切れの場合も稀にございます。<br/>※正確な在庫状況は書名をクリックしてご確認ください。</li>
+                  </ul>
+            </div>
+        </div>
+        <div class="jpo-modal">
           <div id="jpoWrapper_20" class="modal-wrapper" style="display: none;"></div>
           <div id="jpoDetailWrapper_20" class="modal-detail-wrapper" style="display: none;">
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_20','jpoDetailWrapper_20');openListTryRead('jpoWrapper_20','9784863543409','20')">https://kinokuniya.tameshiyo.me/9784863543409</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('jpoWrapper_20','jpoDetailWrapper_20');openListTryRead('jpoWrapper_20','9784798151649','20')">https://kinokuniya.tameshiyo.me/9784798151649</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「JPO 一般社団法人日本出版インフラセンター」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「JPO 一般社団法人日本出版インフラセンター」にご確認ください。<br/></p>
               </div>
             </div>
@@ -2422,7 +2429,7 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
             <div class="modal-detail">
               <div class="modal-detail-row">
                 <p class="content-text">
-                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_20','googleDetailWrapper_20');openListTryRead('googleWrapper_20','9784863543409','20')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784863543409</a>
+                これより外部のウェブサイトに移動します。 よろしければ下記URLをクリックしてください。<br/><a class="modal-detail-url" href="javascript:void(0)" onclick="dialogClose('googleWrapper_20','googleDetailWrapper_20');openListTryRead('googleWrapper_20','9784798151649','20')">https://www.kinokuniya.co.jp/disp/CKnSfGooglePreview.jsp?q=9784798151649</a>
                 <br/><br/>ご注意<br/>リンク先のウェブサイトは、「Googleプレビュー」のページで、<br/>紀伊國屋書店のウェブサイトではなく、紀伊國屋書店の管理下にはないものです。<br/>この告知で掲載しているウェブサイトのアドレスについては、当ページ作成時点のものです。<br/>ウェブサイトのアドレスについては廃止や変更されることがあります。<br/>最新のアドレスについては、お客様ご自身でご確認ください。<br/>リンク先のウェブサイトについては、<br/>「Googleプレビュー」にご確認ください。<br/></p>
               </div>
             </div>
@@ -2438,11 +2445,11 @@ DD_belatedPNG.fix('img, #header a, #global_nav li a, #global_nav, #page_top_btn 
       <input type="image" src="../images/parts/goods-list/btn_cartin.jpg" alt="選択したものをまとめてカートに入れる" onclick="return insertCartAll(this.form);">
       <input type="image" name="ADD_TO_MYLIBRARY" src="../images/parts/goods-list/btn_listRegsit.png" alt="選択したものをほしいものリストに登録する" onclick="return insertFavAll(this.form, 'https://www.kinokuniya.co.jp/member/CKnMmAddGoodsToMyLibrary.jsp');">
     </div>
-    <script src="https://books.google.com/books?jscmd=viewapi&bibkeys=ISBN9784863543720,ISBN9784297127473,ISBN9784297129163,ISBN9784873119236,ISBN9784295202448,ISBN9784802612241,ISBN9784254128963,ISBN9784797372212,ISBN9784295003854,ISBN9784839969301,ISBN9784873119380,ISBN9784899775195,ISBN9784798168500,ISBN9784897978857,ISBN9784798125831,ISBN9784774191300,ISBN9784295007678,ISBN9784877834609,ISBN9784774144375,ISBN9784863543409&callback=ProcessGBSBookInfo"></script>
+    <script src="https://books.google.com/books?jscmd=viewapi&bibkeys=ISBN9784297129163,ISBN9784877834609,ISBN9784297111250,ISBN9784798153353,ISBN9784297127473,ISBN9784797372212,ISBN9784295003854,ISBN9784839969301,ISBN9784899775195,ISBN9784873119380,ISBN9784798168500,ISBN9784873119236,ISBN9784798125831,ISBN9784295202448,ISBN9784863543720,ISBN9784774191300,ISBN9784863543409,ISBN9784774144375,ISBN9784295007678,ISBN9784798151649&callback=ProcessGBSBookInfo"></script>
     </form>
 <div class="navi_area pt20 mt20 dotted">
               <div class="adjust">
-                  <div class=counter>1～20件／全82件</div>
+                  <div class=counter>1～20件／全83件</div>
 
     <div class="content-nav mb20">
 
@@ -2556,7 +2563,10 @@ googletag.enableServices();
   <div id="maintenance">
           <ul>
       <li>
-            <a href="https://www.kinokuniya.co.jp/f/inews-1-260">【Kinoppy】Androidアプリに「カタログ」ページ登場！</a>
+            <a href="https://www.kinokuniya.co.jp/f/inews-1-185">Kinoppyポイント25倍キャンペーン9/11まで</a>
+          </li>
+      <li>
+            <a href="https://www.kinokuniya.co.jp/f/inews-1-260">ウェブストアの「ほしいものリスト」が使いやすくなりました!!</a>
           </li>
       <li>
             <a href="https://www.kinokuniya.co.jp/f/inews-1-265">洋書/海外マガジンの入荷遅延等について</a>
@@ -2594,11 +2604,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1374454843387-1');
     </form>
   </div>
   <!-- <!-- MyKiTSエリア ここから -->
-<!-- <div id="right_banner"> -->
-<!--   <ul> -->
-<!--     <li><div style="width:230px;height:65px;margin:0;padding:0;"><a href="https://gomykits.kinokuniya.co.jp/" target="gomykits"><img src="/contents/images/inc/MyKiTS-nav.jpg" alt="紀伊國屋書店教科書ストアMyKiTS" style="width:230px;margin:0;"></a></div></li> -->
-<!--   </ul> -->
-<!-- </div> -->
+<div id="right_banner">
+  <ul>
+     <li><div style="width:230px;height:65px;margin:0;padding:0;"><a href="https://gomykits.kinokuniya.co.jp/" target="gomykits"><img src="/contents/images/inc/MyKiTS-nav.jpg" alt="紀伊國屋書店教科書ストアMyKiTS" style="width:230px;margin:0;"></a></div></li>
+  </ul>
+</div>
 <!-- MyKiTSエリア ここまで -->
 <!-- Kinoppy バナーエリア ここから -->
 <div id="right_banner">
